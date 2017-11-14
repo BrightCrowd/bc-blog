@@ -1,39 +1,52 @@
-node('docker') {
-  notifyBuild('STARTED')
-  deleteDir()
 
-  stage 'Checkout'
-  checkout scm
+node('master') {
 
-  def buildEnv = docker.image('ruby:latest')
-  buildEnv.pull()
-  buildEnv.inside {
-    stage 'D/L dependencies'
-    sh 'bundle'
-
-    stage 'Build'
-    sh 'jekyll build'
-    archive 'output/**'
-
-    stash includes: 'output/**', name: 'built-site'
-  }
-}
-
-if (currentBuild.result == 'UNSTABLE') {
-  echo 'Skipping deployment due to unstable build'
-  notifyBuild('FAILED')
-} else {
-
-  stage 'Deploy'
-  node() {
+  try {
+    notifyBuild('STARTED')
     deleteDir()
-    unstash 'built-site'
 
-    sh 'aws s3 cp output/* s3://bc-jekyll-blog/${env.BRANCH_NAME}'
-    notifyBuild('SUCCESSFUL')
+    stage('checkout') {
+      checkout scm
+    }
 
+    def buildEnv = docker.image('ruby:latest')
+    buildEnv.pull()
+    buildEnv.inside {
+      stage('D/L dependencies') {
+        sh "bundle"
+      }
+
+      stage('Build') {
+        sh "jekyll build"
+        archive '_site/**'
+
+        stash includes: '_site/**', name: 'built-site'
+      }
+    }
+
+    if (currentBuild.result == 'UNSTABLE') {
+      throw 'Skipping deployment due to unstable build'
+    } else {
+      stage('Deploy') {
+        node() {
+          deleteDir()
+          unstash 'built-site'
+
+          sh "aws s3 sync _site/ s3://bc-jekyll-blog/${env.BRANCH_NAME}"
+        }
+      }
+    }
+
+  } catch (e) {
+    // If there was an exception thrown, the build failed
+    currentBuild.result = "FAILED"
+    throw e
+  } finally {
+    // Success or failure, always send notifications
+    notifyBuild(currentBuild.result)
   }
 }
+
 
 def notifyBuild(String buildStatus = 'STARTED') {
   // build status of null means successful
