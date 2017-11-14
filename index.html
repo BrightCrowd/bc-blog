@@ -8,9 +8,14 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
+      {% if post.subtitle %}
+        <h2>{{ post.subtitle }}</h2>
+      {% endif %}
+
       <div class="entry">
         {{ post.excerpt }}
       </div>
+      <img src="{{ post.image | absolute_url }}" />
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>

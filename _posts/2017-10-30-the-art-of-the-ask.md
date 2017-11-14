@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "The Art of the Ask"
-date:   2017-10-30 17:00:00 -0800
+title: The Art of the Ask
+subtitle: Make it an experience, not a transaction
+date: 2017-10-30 17:00:00 -0800
 categories: advice
-author: T.J. Duane
+author: tjduane
+image: /assets/images/hero1.png
 ---
-## Make it an experience, not a transaction
 
 It can be tough to get a person’s attention nowadays. After all, your email is invariably buried in a pile of a hundred unread messages, which are hastily checked (and deleted) in between meetings. Yikes.
 

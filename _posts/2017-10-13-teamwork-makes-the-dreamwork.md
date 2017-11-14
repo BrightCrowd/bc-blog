@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Teamwork Makes The Dreamwork"
-date:   2017-10-13 17:00:00 -0800
+title: Teamwork Makes The Dreamwork
+subtitle: It’s about showing up, not showing off
+date: 2017-10-13 17:00:00 -0800
 categories: advice
-author: T.J. Duane
+author: tjduane
 ---
-## It’s about showing up, not showing off
 
 Social media gets a bad rap these days, and it’s not hard to understand why. There’s a platform for every self-promotional purpose, from big career moves to the smoothie you had for breakfast. Scrolling through someone’s “perfect” Instagram feed can feel demoralizing, and the pressure to measure up seems to be growing.
 We want to break out of the self-promotion arms race. That’s why [BrightCrowd][brightcrowd] was born.

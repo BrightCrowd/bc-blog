@@ -1,16 +1,26 @@
 ---
 layout: default
 ---
-
+{% assign author = site.data.authors[page.author] %}
 <article class="post">
   <h1>{{ page.title }}</h1>
+
+  {% if page.subtitle %}
+    <h2>{{ page.subtitle }}</h2>
+  {% endif %}
+
+  {% if page.image %}
+    <img src="{{ page.image | absolute_url }}" alt="{{page.title}}" />
+  {% endif %}
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Written on {{ page.date | date: "%B %e, %Y" }} by {{ author.name }}
   </div>
-
+  {% if jekyll.environment == "development" %}
+    <a href="{{ site.github.repository_url }}/edit/develop/{{ page.relative_path }}">Edit</a>
+  {% endif %}
 </article>

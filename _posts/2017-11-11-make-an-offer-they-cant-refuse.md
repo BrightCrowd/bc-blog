@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Make an offer they can’t refuse"
-date:   2017-11-11 17:00:00 -0800
+title: Make an offer they can’t refuse
+subtitle: Say what you will do, not what you’ve done
+date: 2017-11-11 17:00:00 -0800
 categories: advice
-author: T.J. Duane
+author: tjduane
+image: /assets/images/hero2.png
 ---
-## Say what you will do, not what you’ve done
 
 I think we can all agree that job searching is no fun.
 It’s demoralizing to scour job boards, put hours into each application, and still...crickets. I’ve been there before, and recently I chatted with another member of the BrightCrowd community who was in that very spot.

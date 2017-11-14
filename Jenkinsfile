@@ -17,7 +17,12 @@ node('master') {
       }
 
       stage('Build') {
-        sh "jekyll build"
+        if (env.BRANCH_NAME == 'develop') {
+          sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
+        } else {
+          sh "JEKYLL_ENV=production jekyll build"
+        }
+
         archive '_site/**'
 
         stash includes: '_site/**', name: 'built-site'
@@ -32,7 +37,7 @@ node('master') {
           deleteDir()
           unstash 'built-site'
 
-          sh "aws s3 sync _site/ s3://bc-jekyll-blog/${env.BRANCH_NAME}"
+          sh "aws s3 sync _site/ s3://bc-jekyll-blog-${env.BRANCH_NAME}/blog/"
         }
       }
     }
