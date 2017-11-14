@@ -1,4 +1,4 @@
-baseurl: "/develop" # adjust s3 location in Jenkinsfile accordingly
+baseurl: "/branches/develop" # adjust s3 location in Jenkinsfile accordingly
 
 sass:
     style: :expanded
