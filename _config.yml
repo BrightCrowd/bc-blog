@@ -23,16 +23,15 @@ url: "https://brightcrowd.com"
 
 facebook:
   app_id: 1584150891861483
-  publisher: 1584150891861483
+  publisher: https://facebook.com/BrightCrowd
 
 google_analytics: UA-54131651-4
 
 logo: https://img.brightcrowd.com/logo/brightcrowd-logo-lg.png
+# default image for posts
+image: /assets/hero3.png
 
-author:
-  name: 'T.J. Duane'
-  url: https://twitter.com/tjduane
-
+author: tjduane
 
 # Build settings
 
@@ -40,6 +39,7 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
+  - jekyll-auto-image
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
