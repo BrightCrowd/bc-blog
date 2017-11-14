@@ -1,4 +1,4 @@
-url: "https://dev.brightcrowd.com"
+baseurl: "/develop" # adjust s3 location in Jenkinsfile accordingly
 
 sass:
     style: :expanded

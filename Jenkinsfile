@@ -17,10 +17,10 @@ node('master') {
       }
 
       stage('Build') {
-        if (env.BRANCH_NAME == 'develop') {
-          sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
+        if (env.BRANCH_NAME == 'master') {
+        sh "JEKYLL_ENV=production jekyll build"
         } else {
-          sh "JEKYLL_ENV=production jekyll build"
+          sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
         }
 
         archive '_site/**'
@@ -36,8 +36,11 @@ node('master') {
         node() {
           deleteDir()
           unstash 'built-site'
-
-          sh "aws s3 sync _site/ s3://bc-jekyll-blog-${env.BRANCH_NAME}/blog/"
+          if (env.BRANCH_NAME == 'master') {
+            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/"
+          } else {
+            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/${env.BRANCH_NAME}/"
+          }
         }
       }
     }
