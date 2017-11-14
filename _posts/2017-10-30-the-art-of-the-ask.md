@@ -5,7 +5,7 @@ subtitle: Make it an experience, not a transaction
 date: 2017-10-30 17:00:00 -0800
 categories: advice
 author: tjduane
-image: /assets/hero1.png
+image: /assets/images/hero1.png
 ---
 
 It can be tough to get a person’s attention nowadays. After all, your email is invariably buried in a pile of a hundred unread messages, which are hastily checked (and deleted) in between meetings. Yikes.

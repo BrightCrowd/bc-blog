@@ -5,7 +5,7 @@ subtitle: Say what you will do, not what you’ve done
 date: 2017-11-11 17:00:00 -0800
 categories: advice
 author: tjduane
-image: /assets/hero2.png
+image: /assets/images/hero2.png
 ---
 
 I think we can all agree that job searching is no fun.

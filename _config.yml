@@ -27,10 +27,10 @@ facebook:
 
 google_analytics: UA-54131651-4
 
-logo: /assets/brightcrowd-logo-lg.png
-avatar: /assets/brightcrowd-logomark-lg.png
+logo: /assets/images/brightcrowd-logo-lg.png
+avatar: /assets/images/brightcrowd-logomark-lg.png
 # default image for posts
-image: /assets/hero3.png
+image: /assets/images/hero3.png
 
 author: tjduane
 
@@ -72,7 +72,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed
 
 # Custom vars
 version: 1.0.0
@@ -99,3 +99,6 @@ github_username:  BrightCrowd
 
 twitter:
   username: BrightCrowd
+
+github:
+  repository_url: https://github.com/Brightcrowd/bc-blog
