@@ -1,0 +1,62 @@
+node('docker') {
+  notifyBuild('STARTED')
+  deleteDir()
+
+  stage 'Checkout'
+  checkout scm
+
+  def buildEnv = docker.image('ruby:latest')
+  buildEnv.pull()
+  buildEnv.inside {
+    stage 'D/L dependencies'
+    sh 'bundle'
+
+    stage 'Build'
+    sh 'jekyll build'
+    archive 'output/**'
+
+    stash includes: 'output/**', name: 'built-site'
+  }
+}
+
+if (currentBuild.result == 'UNSTABLE') {
+  echo 'Skipping deployment due to unstable build'
+  notifyBuild('FAILED')
+} else {
+
+  stage 'Deploy'
+  node() {
+    deleteDir()
+    unstash 'built-site'
+
+    sh 'aws s3 cp output/* s3://bc-jekyll-blog/${env.BRANCH_NAME}'
+    notifyBuild('SUCCESSFUL')
+
+  }
+}
+
+def notifyBuild(String buildStatus = 'STARTED') {
+  // build status of null means successful
+  buildStatus =  buildStatus ?: 'SUCCESSFUL'
+
+  // Default values
+  def colorName = 'RED'
+  def colorCode = '#FF0000'
+  def subject = "${buildStatus}: Job '${env.JOB_NAME} [${env.BUILD_NUMBER}]'"
+  def summary = "${subject} (${env.BUILD_URL}console)"
+
+  // Override default values based on build status
+  if (buildStatus == 'STARTED') {
+    color = 'YELLOW'
+    colorCode = '#FFFF00'
+  } else if (buildStatus == 'SUCCESSFUL') {
+    color = 'GREEN'
+    colorCode = '#00FF00'
+  } else {
+    color = 'RED'
+    colorCode = '#FF0000'
+  }
+
+  // Send notifications
+  slackSend (color: colorCode, message: summary, tokenCredentialId: 'slackToken')
+}
