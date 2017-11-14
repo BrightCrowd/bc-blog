@@ -33,8 +33,6 @@ node('master') {
           unstash 'built-site'
 
           sh "aws s3 sync _site/ s3://bc-jekyll-blog/${env.BRANCH_NAME}"
-          notifyBuild('SUCCESSFUL')
-
         }
       }
     }
