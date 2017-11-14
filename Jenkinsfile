@@ -13,11 +13,11 @@ node('master') {
     buildEnv.pull()
     buildEnv.inside {
       stage('D/L dependencies') {
-        sh 'bundle'
+        sh "bundle"
       }
 
       stage('Build') {
-        sh 'jekyll build'
+        sh "jekyll build"
         archive '_site/**'
 
         stash includes: '_site/**', name: 'built-site'
@@ -32,7 +32,7 @@ node('master') {
           deleteDir()
           unstash 'built-site'
 
-          sh 'aws s3 cp _site/* s3://bc-jekyll-blog/${env.BRANCH_NAME}'
+          sh "aws s3 cp _site/* s3://bc-jekyll-blog/${env.BRANCH_NAME}"
           notifyBuild('SUCCESSFUL')
 
         }
