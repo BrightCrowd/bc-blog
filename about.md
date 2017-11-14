@@ -6,4 +6,6 @@ permalink: /about/
 
 BrightCrowd isn’t about networking - it’s about getting stuff done.
 
-[brightcrowd]: https://brightcrowd.com/
+### Contact us
+
+[contact@brightcrowd.com](mailto:contact@brightcrowd.com)
