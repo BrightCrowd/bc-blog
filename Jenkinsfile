@@ -17,7 +17,7 @@ node('master') {
       }
 
       stage('Build') {
-        if (env.BRANCH_NAME === 'develop') {
+        if (env.BRANCH_NAME == 'develop') {
           sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
         } else {
           sh "JEKYLL_ENV=production jekyll build"
