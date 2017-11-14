@@ -5,33 +5,37 @@ node('master') {
     notifyBuild('STARTED')
     deleteDir()
 
-    stage 'Checkout'
-    checkout scm
+    stage('checkout') {
+      checkout scm
+    }
 
     def buildEnv = docker.image('ruby:latest')
     buildEnv.pull()
     buildEnv.inside {
-      stage 'D/L dependencies'
-      sh 'bundle'
+      stage('D/L dependencies') {
+        sh 'bundle'
+      }
 
-      stage 'Build'
-      sh 'jekyll build'
-      archive 'output/**'
+      stage('Build') {
+        sh 'jekyll build'
+        archive '_site/**'
 
-      stash includes: 'output/**', name: 'built-site'
+        stash includes: '_site/**', name: 'built-site'
+      }
     }
 
     if (currentBuild.result == 'UNSTABLE') {
       throw 'Skipping deployment due to unstable build'
     } else {
-      stage 'Deploy'
-      node() {
-        deleteDir()
-        unstash 'built-site'
+      stage('Deploy') {
+        node() {
+          deleteDir()
+          unstash 'built-site'
 
-        sh 'aws s3 cp output/* s3://bc-jekyll-blog/${env.BRANCH_NAME}'
-        notifyBuild('SUCCESSFUL')
+          sh 'aws s3 cp _site/* s3://bc-jekyll-blog/${env.BRANCH_NAME}'
+          notifyBuild('SUCCESSFUL')
 
+        }
       }
     }
 
