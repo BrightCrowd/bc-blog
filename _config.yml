@@ -22,6 +22,15 @@ url: "https://blog.brightcrowd.com" # the base hostname & protocol for your site
 twitter_username: BrightCrowd
 github_username:  BrightCrowd
 
+twitter:
+  username: BrightCrowd
+
+facebook:
+  app_id: 1584150891861483
+  publisher: 1584150891861483
+
+logo: https://img.brightcrowd.com/logo/brightcrowd-logo-lg.png
+
 # Build settings
 markdown: kramdown
 theme: minima
