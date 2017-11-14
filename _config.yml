@@ -27,7 +27,8 @@ facebook:
 
 google_analytics: UA-54131651-4
 
-logo: https://img.brightcrowd.com/logo/brightcrowd-logo-lg.png
+logo: /assets/brightcrowd-logo-lg.png
+avatar: /assets/brightcrowd-logomark-lg.png
 # default image for posts
 image: /assets/hero3.png
 
