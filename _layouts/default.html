@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
-
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -45,7 +43,7 @@
         </footer>
       </div>
     </div>
-
+    {% include facebook.html %}
     {% include analytics.html %}
   </body>
 </html>
