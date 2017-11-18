@@ -3,11 +3,18 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 <article class="post">
+  <div class="date">
+    {{ page.date | date: "%B %e, %Y" }}  ･  Written by {{ author.name }}
+  </div>
   <h1>{{ page.title }}</h1>
 
   {% if page.subtitle %}
     <h2>{{ page.subtitle }}</h2>
   {% endif %}
+
+  <div class="share-buttons">
+  {% include share_buttons.html %}
+  </div>
 
   {% if page.image %}
     <img src="{{ page.image | absolute_url }}" alt="{{page.title}}" />
@@ -17,10 +24,12 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }} by {{ author.name }}
+
+  <div class="share-buttons">
+    {% include share_buttons.html %}
+
+    {% if jekyll.environment == "development" %}
+      <a href="{{ site.github.repository_url }}/edit/develop/{{ page.relative_path }}">Edit</a>
+    {% endif %}
   </div>
-  {% if jekyll.environment == "development" %}
-    <a href="{{ site.github.repository_url }}/edit/develop/{{ page.relative_path }}">Edit</a>
-  {% endif %}
 </article>

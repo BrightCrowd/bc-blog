@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
-
     {% include meta.html %}
 
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
+    <link rel="stylesheet" href="https://use.typekit.net/oab6guw.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -18,34 +16,36 @@
   <body>
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar | absolute_url }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+        <header class="masthead">
+          <div>
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar | absolute_url }}" /></a>
           </div>
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about/">About</a>
+            <a href="{{ site.bcurl }}/team">About</a>
+            <a href="{{ site.bcurl }}">Check Out BrightCrowd</a>
           </nav>
         </header>
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div id="main" role="main" class="container main">
       {{ content }}
     </div>
 
     <div class="wrapper-footer">
+      <div class="site-info">
+        <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <h2 class="site-description">{{ site.description }}</h2>
+      </div>
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
     </div>
-
+    {% include facebook.html %}
     {% include analytics.html %}
   </body>
 </html>

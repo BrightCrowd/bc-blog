@@ -3,21 +3,96 @@
 // VARIABLES
 //
 
+$bc-grey-50: rgba(97%,97%,97%,1.00);
+$bc-grey-100: rgba(95%,95%,96%,1.00);
+$bc-grey-200: rgba(93%,94%,94%,1.00);
+$bc-grey-300: rgba(87%,87%,88%,1.00);
+$bc-grey-400: rgba(74%,75%,76%,1.00); // BDC0C3
+$bc-grey-500: rgba(61%,63%,65%,1.00); // 9DA1A6
+$bc-grey-600: rgba(42%,44%,47%,1.00);
+$bc-grey-700: rgba(29%,32%,35%,1.00); // 475159
+$bc-grey-800: rgba(21%,24%,26%,1.00);
+$bc-grey-900: rgba(8%,9%,10%,1.00);
+
+$bc-blue-50: #F9FAFA;
+$bc-blue-100: #F2F8FA;
+$bc-blue-200: #D0F0FA;
+$bc-blue-300: #A2E2F6;
+$bc-blue-400: #5CCDF0;
+$bc-blue-500: #00b1e8;
+$bc-blue-600: #0091BE;
+$bc-blue-700: #007194;
+$bc-blue-800: #00516A;
+$bc-blue-900: #003140;
+
+$bc-purple-50: rgba(99%,99%,100%,1.00);
+$bc-purple-100: rgba(97%,97%,98%,1.00);
+$bc-purple-200: rgba(89%,89%,94%,1.00);
+$bc-purple-300: rgba(78%,78%,88%,1.00);
+$bc-purple-400: rgba(61%,62%,79%,1.00);
+$bc-purple-500: rgba(39%,40%,68%,1.00); //6366AD
+$bc-purple-600: rgba(32%,33%,56%,1.00);
+$bc-purple-700: rgba(25%,25%,44%,1.00);
+$bc-purple-800: rgba(21%,22%,37%,1.00);
+$bc-purple-900: rgba(14%,15%,25%,1.00);
+
+$bc-seafoam-50: rgba(98%,100%,99%,1.00);
+$bc-seafoam-100: rgba(97%,100%,98%,1.00);
+$bc-seafoam-200: rgba(91%,99%,96%,1.00);
+$bc-seafoam-300: rgba(84%,99%,93%,1.00);
+$bc-seafoam-400: rgba(75%,99%,88%,1.00);
+$bc-seafoam-500: rgba(66%,98%,84%,1.00); //97F8D8
+$bc-seafoam-600: rgba(55%,81%,69%,1.00);
+$bc-seafoam-700: rgba(42%,63%,54%,1.00);
+$bc-seafoam-800: rgba(30%,45%,38%,1.00);
+$bc-seafoam-900: rgba(24%,36%,31%,1.00);
+
+$bc-salmon-50: rgba(100%,99%,99%,1.00);
+$bc-salmon-100: rgba(100%,96%,96%,1.00);
+$bc-salmon-300: rgba(98%,84%,80%,1.00);
+$bc-salmon-200: rgba(99%,92%,90%,1.00);
+$bc-salmon-400: rgba(98%,75%,70%,1.00);
+$bc-salmon-500: rgba(96%,55%,45%,1.00); //E8927A
+$bc-salmon-600: rgba(79%,45%,37%,1.00);
+$bc-salmon-700: rgba(61%,35%,29%,1.00);
+$bc-salmon-800: rgba(44%,25%,21%,1.00);
+$bc-salmon-900: rgba(35%,20%,17%,1.00);
+
+// BRAND
+
+$bc-primary: $bc-blue-500;
+$bc-secondary: $bc-purple-500;
+$bc-accent-1: $bc-seafoam-500;
+$bc-accent-2: $bc-salmon-500;
+
+$bc-brand-primary-lt:$bc-accent-1;
+$bc-brand-primary-md: $bc-primary;
+$bc-brand-primary-dk: $bc-secondary;
+
+$bc-bg-color: $bc-grey-100;
+
+$bc-heading-font-color: $bc-grey-700;
+$bc-font-color: $bc-grey-600;
+$bc-placeholder-color: $bc-grey-400;
+
+$bc-bright-orange: $bc-accent-2;
+$bc-bright-green: $bc-accent-1;
+
 // Colors
-$blue: #4183C4;
+$blue: $bc-blue-500;
 
 // Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
+$black: $bc-grey-700;
+$darkerGray: $bc-grey-700;
+$darkGray: $bc-grey-700;
+$gray: $bc-grey-500;
+$lightGray: $bc-grey-100;
 $white: #fff;
 
+
 // Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+$bc-font : "lato", "Helvetica Neue", helvetica, sans serif;
+$bc-body-font : "lato", "Georgia", serif;
 
 // Mobile breakpoints
 @mixin mobile {

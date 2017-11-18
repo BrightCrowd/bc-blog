@@ -21,14 +21,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # adjust s3 location in Jenkinsfile accordingly
 url: "https://blog.brightcrowd.com"
 
+bcurl: https://brightcrowd.com
+
 facebook:
   app_id: 1584150891861483
   publisher: https://facebook.com/BrightCrowd
 
 google_analytics: UA-54131651-4
 
-logo: /assets/images/brightcrowd-logo-lg.png
-avatar: /assets/images/brightcrowd-logomark-lg.png
+logo: /assets/images/brightcrowd-logo-lg.svg
+avatar: /assets/images/brightcrowd-logo-lg.svg
 # default image for posts
 image: /assets/images/hero3.png
 

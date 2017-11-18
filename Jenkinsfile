@@ -37,9 +37,9 @@ node('master') {
           deleteDir()
           unstash 'built-site'
           if (env.BRANCH_NAME == 'master') {
-            sh "aws s3 sync --exclude 'branches/*' --delete _site/ s3://blog.brightcrowd.com/"
+            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/ --exclude 'branches/*' --delete --acl 'public-read'"
           } else {
-            sh "aws s3 sync --delete _site/ s3://blog.brightcrowd.com/branches/${env.BRANCH_NAME}/"
+            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/branches/${env.BRANCH_NAME}/ --delete --acl 'public-read'"
           }
         }
       }
