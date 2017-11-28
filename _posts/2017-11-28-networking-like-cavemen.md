@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Networking like cavemen (really).
-subtitle: Building quality connections with micro-consults.
-date: 2017-11-28 17:00:00 -0800
+title: Networking like cavemen (really)
+subtitle: Building quality connections with micro-consults
+date: 2017-11-28 12:00:00 -0800
 categories: advice
 author: tjduane
 image: /assets/images/hero4.png
@@ -37,7 +37,7 @@ The upshot? Fifteen minutes of my time will probably save her months of wasted e
 
 The internet is a marvelous tool that lets us do way more than just accumulate connections.  And even though our tribes today span the globe, with a little effort we can build close, meaningful professional relationships, just like the cave people did. So let’s start following in their (prehistoric) footsteps!
 
-If you want to discover helpful people, share knowledge and start collaborating, check out [BrightCrowd][brightcrowd].   
+If you want to discover helpful people, share knowledge and start collaborating, check out [BrightCrowd][brightcrowd].
 
 
 [brightcrowd]: https://brightcrowd.com
