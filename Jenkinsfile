@@ -18,7 +18,7 @@ node('master') {
 
       stage('Build') {
         if (env.BRANCH_NAME == 'master') {
-        sh "JEKYLL_ENV=production jekyll build"
+          sh "JEKYLL_ENV=production jekyll build"
         } else {
           sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
         }
@@ -38,8 +38,14 @@ node('master') {
           unstash 'built-site'
           if (env.BRANCH_NAME == 'master') {
             sh "aws s3 sync _site/ s3://blog.brightcrowd.com/ --exclude 'branches/*' --delete --acl 'public-read'"
+            withCredentials([string(credentialsId: 'cf-id-bc-blog', variable: 'DIST_ID')]) {
+              sh "aws cloudfront create-invalidation --distribution-id ${env.DIST_ID} --paths '/*'"
+            }
           } else {
             sh "aws s3 sync _site/ s3://blog.brightcrowd.com/branches/${env.BRANCH_NAME}/ --delete --acl 'public-read'"
+            withCredentials([string(credentialsId: 'cf-id-bc-blog', variable: 'DIST_ID')]) {
+              sh "aws cloudfront create-invalidation --distribution-id ${env.DIST_ID} --paths '/branches/${env.BRANCH_NAME}/*'"
+            }
           }
         }
       }
