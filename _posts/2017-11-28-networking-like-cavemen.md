@@ -12,13 +12,11 @@ When I think of the heyday of professional networking, I go all the way back to 
 
 Cavemen knew how to work together to get stuff done. Okay, so a lot of that stuff had to do with [not getting eaten][article1], but there was incredible [innovation][article2] going on too (for instance, I’m a big fan of the wheel.)
 
-![Caveman with wheel][gif1]
-
 **It was a time when early humans shared knowledge and collaborated closely to get ahead - that sounds like quality professional networking.**
 
 Today we mostly just rack up 500+ connections on LinkedIn and swap tons of business cards. But if you feel like you’re accumulating more than you’re collaborating, something’s probably not right.
 
-So how can we take a cue from our ancient ancestors and build real, collaborative relationships. We start by focusing on the quality of our connections, not the quantity. Here’s how you can make it happen:
+So how can we take a cue from our ancient ancestors and build real, collaborative relationships? We start by focusing on the quality of our connections, not the quantity. Here’s how you can make it happen:
 
    **Start with a micro-consult** - Offer to get on the phone for 15 minutes with somebody you just met. That’s enough time to tell if you can help each other out and share some pearls of wisdom, all on your coffee break.
 
@@ -43,4 +41,3 @@ If you want to discover helpful people, share knowledge and start collaborating,
 [brightcrowd]: https://brightcrowd.com
 [article1]: https://io9.gizmodo.com/here-are-some-essential-survival-skills-weve-lost-from-1732594841
 [article2]: https://www.theguardian.com/science/2012/mar/11/cave-painting-symbols-language-evolution
-[gif1]: https://media.giphy.com/media/XvWnor2za5piE/giphy.gif
