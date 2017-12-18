@@ -5,6 +5,7 @@ subtitle: Your community’s wisdom can help you overcome challenges.
 date: 2017-12-15 12:00:00 -0800
 categories: advice
 author: tjduane
+image: /assets/images/hero-life-is-hard.png
 ---
 
 Sometimes life can seem like an endless string of problems. If you’ve ever been laid off, endured a breakup, struggled in school - or all 3 at once! - you’ll know what I mean.
