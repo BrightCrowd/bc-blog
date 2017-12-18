@@ -2,7 +2,7 @@
 layout: post
 title: When things are tough - reach out.
 subtitle: Your community’s wisdom can help you overcome challenges.
-date: 2017-12-18 12:00:00 -0800
+date: 2017-12-18 09:00:00 -0800
 categories: advice
 author: tjduane
 image: /assets/images/hero-life-is-hard.png
