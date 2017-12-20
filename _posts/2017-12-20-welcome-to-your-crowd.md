@@ -27,4 +27,5 @@ The best part? Assuming that everyone in your Crowd knows 100 people you don’t
 The first step to meeting them? [Jump into your Crowd][brightcrowd]!
 
 <a name="footnote">\*\*</a>: For more nerdy social science, check out Robin Dunbar’s book, [Grooming, Gossip, and the Evolution of Language](http://www.hup.harvard.edu/catalog.php?isbn=9780674363366).
+
 [brightcrowd]: https://brightcrowd.com
