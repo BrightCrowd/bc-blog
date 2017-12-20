@@ -5,7 +5,7 @@ subtitle: All the helpful people you actually know and care about.
 date: 2017-12-20 09:00:00 -0800
 categories: brightcrowd
 author: tjduane
-image: /assets/images/hero-life-is-hard.png
+
 ---
 
 Think for a second - how many people do you know well enough that you would help them if they asked? It’s probably quite a few!
