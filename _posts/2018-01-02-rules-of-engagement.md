@@ -14,7 +14,7 @@ When people ask me what BrightCrowd’s all about, I tell them this (more or les
 
 This isn’t a social network in the traditional sense. It’s not about likes, views, hearts, stars, horseshoes, or whatever the metric du jour is.  It’s about real people making genuine human connections, sharing advice and helping each other move forward.
 
-I know this sounds idealistic, but it’s true. Every time I hear about a fantastic connection that started on BrightCrowd, I do a little happy dance. [Email me](mailto:tjduane@brightcrowd.com) with yours, it’ll make my day.
+I know this sounds idealistic, but it’s true. Every time I hear about a fantastic connection that started on BrightCrowd, I do a little happy dance. [Tweet @BrightCrowd][twitter] with yours, it’ll make my day.
 
 So, what’s the secret sauce, you ask?  After observing a ton of collaborations born on BrightCrowd, I think I know the answer. And it’s mostly stuff we learned in kindergarten, but might have forgotten along the way.
 
@@ -44,6 +44,6 @@ Go ahead! Ask for help. Offer your skills.  Make the world a little (or a lot) b
 
 
 
-
+[twitter]: https://twitter.com/BrightCrowd
 [brightcrowd]: https://brightcrowd.com
 [blog1]: https://blog.brightcrowd.com/networking-like-cavemen/
