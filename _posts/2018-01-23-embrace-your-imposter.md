@@ -5,7 +5,7 @@ subtitle: Everybody feels it.
 date: 2018-01-23 09:00:00 -0800
 categories: brightcrowd
 author: tjduane
-image: /assets/images/hero3.png
+image: /assets/images/hero-imposter.png
 ---
 
 [Imposter syndrome][link1] can be a beast. At the beginning of the school year I got an email from an incoming freshman at Stanford, who was suffering from a classic case. She had decided to pursue a Computer Science major, but was feeling afraid of approaching professors and research groups to ask for work.
