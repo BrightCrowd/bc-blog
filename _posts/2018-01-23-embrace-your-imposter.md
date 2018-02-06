@@ -3,7 +3,7 @@ layout: post
 title: Embrace Your Imposter Syndrome
 subtitle: Everybody feels it.
 date: 2018-01-23 09:00:00 -0800
-categories: brightcrowd
+categories: advice
 author: tjduane
 image: /assets/images/hero-imposter.png
 ---
