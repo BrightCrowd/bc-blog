@@ -14,7 +14,7 @@ It’s like a job interview, minus the job, and backwards. You interview a perso
 
 But here’s the trick. If you’re very prepared and a little bit lucky, it might lead to a job.
 
-### Ask for the Interview
+### Ask for the Interview.
 
 We’ve written before about [asking for help][link2]. The same advice applies here. A genuine, thoughtful request will take you far, especially if you’re connected somehow to the person you’d like to interview.
 
