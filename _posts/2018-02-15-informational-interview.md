@@ -56,8 +56,13 @@ At the close of the interview, you should be prepared to offer your help in a co
 
 This serves as a no-pressure opening for your interviewee to bring up any contracting opportunities or open positions. But remember – this is a bonus. If job opportunities don’t come up, you can still walk away having made a wonderful connection.
 
+### Get Started.
+
+How can you get started? A quick search for your dream job on [BrightCrowd][brightcrowd] will turn up people who are happy to chat with you, because that's what BrightCrowd is all about!
+
 
 [link1]: https://en.wikipedia.org/wiki/Informational_interview
 [link2]: https://blog.brightcrowd.com/the-art-of-the-ask/
 [link3]: https://jacobklehman.com/
 [link4]: https://business.cornell.edu/
+[brightcrowd]: https://brightcrowd.com
