@@ -20,7 +20,7 @@ If you’re [feeling down][link1] or are in the middle of a slow job search, tha
 
 We want to help keep things in perspective. Even if you’re not yet dazzling your way into your dream job, you can still be awesome at networking. Now on [BrightCrowd][brightcrowd] you can see a (rough!) measure of how you’re doing. It’s called a Helpfulness Score.
 
-![Helpfulness Score 73%](/assets/images/helpfulness-score.png)
+![Helpfulness Score 73%](../assets/images/helpfulness-score.png)
 
 *Hey, you’re pretty helpful!*
 
