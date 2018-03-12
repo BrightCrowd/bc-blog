@@ -20,14 +20,12 @@ Her problem got me thinking about the nature of traditional job hunting. She’s
 That might sound ridiculous, but hear me out. What if she spent half an hour researching the company’s product, understanding it, and actually suggesting improvements in her application? That’s a cover letter that would absolutely get a response.
 
 This strategy doesn’t require a PhD to be effective. We’ve all got valuable skills. With some extra thought, a little marketing technique, and a dash of confidence, you can make it work.
-1. Understand the company’s needs
-With a little bit of research you can get a pretty good idea of how your expertise adds value to a company. Google is your friend.
 
-2. Show your worth
-Don’t waste precious cover letter space on your past experience. Get straight to what’s interesting — and talk about what you will do for the company.
+1. Understand the company’s needs. With a little bit of research you can get a pretty good idea of how your expertise adds value to a company. Google is your friend.
 
-3. Make them want more
-Don’t just say what you can do, give the company you’re eyeing a little taste. Once they see firsthand how awesome you can be for them, an interview won’t seem like a big request.
+2. Show your worth. Don’t waste precious cover letter space on your past experience. Get straight to what’s interesting — and talk about what you will do for the company.
+
+3. Make them want more. Don’t just say what you can do, give the company you’re eyeing a little taste. Once they see firsthand how awesome you can be for them, an interview won’t seem like a big request.
 
 Not sure how this translates to the real world? Let me give you can example of how this technique hooked me as an employer...
 
