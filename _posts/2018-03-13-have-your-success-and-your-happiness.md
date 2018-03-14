@@ -7,6 +7,7 @@ categories: guest
 author: smuchoney
 image:
 ---
+*This advice is shared by BrightCrowd member Sara Muchoney*
 
 Being a pre-med is notoriously tough. But from what I’ve seen, life doesn’t necessarily get easier when you’re out of med school and sitting at the top of your field.
 
