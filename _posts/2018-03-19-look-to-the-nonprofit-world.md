@@ -3,7 +3,7 @@ layout: post
 title: Looking for work experience? Look to the nonprofit world.
 subtitle: Local nonprofits need your help.
 date: 2018-03-19 09:00:00 -0800
-categories: brightcrowd
+categories: advice
 author: tjduane
 image: /assets/images/hero3.png
 ---
