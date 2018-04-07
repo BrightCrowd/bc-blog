@@ -4,7 +4,7 @@ title: How apologizing can be your best professional asset.
 subtitle: It’s not weakness. It’s a strength.
 date: 2018-04-03 09:00:00 -0800
 categories: advice
-author: tduane
+author: tjduane
 image:
 ---
 

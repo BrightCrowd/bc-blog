@@ -4,7 +4,7 @@ title: How to survive (and thrive) in your early career
 subtitle:
 date: 2018-04-07 09:00:00 -0800
 categories: advice
-author: tduane
+author: tjduane
 image:
 ---
 
