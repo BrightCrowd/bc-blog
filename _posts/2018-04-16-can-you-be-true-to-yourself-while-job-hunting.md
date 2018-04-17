@@ -16,11 +16,18 @@ I’ve hired folks before, and let me tell you: reading all that blandness is pa
 
 That experience has informed my own application style. Take this example from my “Skills” section:
 
-![... and a dissertation, just for me ...](../assets/images/ryan-resume-1.jpg)
+<!-- ![... and a dissertation, just for me ...](../assets/images/ryan-resume-1.jpg) -->
+
+> “I’ve written research reports and policy memos for administrators; grants for funders; briefs for congressional staffers; and press releases for the media. __And a dissertation, just for me.__”
 
 Or this one:
 
-![... Microsoft Office is a close personal friend ...](../assets/images/ryan-resume-2.jpg)
+<!-- ![... Microsoft Office is a close personal friend ...](../assets/images/ryan-resume-2.jpg) -->
+
+> * “Research & analysis: SPSS, Stata, Tableau, SQL, Qualtrics, ATLAS ti
+> * Web design: I’ve custom-built web-to-fax systems, automated email campaigns, online petitions, and surveys using Wordpress, PHP, XML, and MySQL.
+> * __Oh, and Microsoft Office is a close personal friend.__”
+
 
 In neither case am I distracting from the content I want to convey. I’m enhancing it, by making all that content easier to absorb.
 
