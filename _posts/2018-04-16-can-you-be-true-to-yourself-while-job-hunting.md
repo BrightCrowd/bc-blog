@@ -45,8 +45,6 @@ Cheeky, I know. ___But I got the interview___.
 
 Playing it safe would have maximized my chances – but it also would have compromised my integrity and yielded my leverage. And I have my own requirements - I want a job that treats me with respect, even when I question the status quo.
 
-Playing it safe would have maximized my chances – but it also would have compromised my integrity and yielded my leverage. And I have my own requirements - I want a job that treats me with respect, even when I question the status quo.
-
 The bottom-line? A bit of personality can sometimes be a great thing.
 
 _[Ryan Bodanyi][bio1] loves using knowledge and data to make the world a better place. But he’s not above using [Thai food][bio2] instead._
