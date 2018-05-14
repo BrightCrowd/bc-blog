@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Eternal Question: Should I go to grad school?
+title: The Eternal Question - Should I go to grad school?
 subtitle:
 date: 2018-05-14 09:00:00 -0800
 categories: advice
