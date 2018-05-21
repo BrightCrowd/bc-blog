@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Interview Question for Candidates
+title: The Best Question To Ask Your Interviewer
 subtitle: It's bold, it works wonders, and you should use it.
 date: 2018-05-21 09:00:00 -0800
 categories: advice
