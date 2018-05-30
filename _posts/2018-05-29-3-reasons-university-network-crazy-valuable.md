@@ -5,7 +5,7 @@ subtitle: Don’t leave it behind when you get your degree.
 date: 2018-05-29 09:00:00 -0800
 categories: advice
 author: tjduane
-image: /assets/images/hero-university-network.png
+image: /assets/images/hero-university-network.jpg
 ---
 
 After graduation, the world can feel overwhelming. You’ve got the credentials, but no experience. Perhaps you’ve moved to a new city where you don’t know anybody. Maybe you’re awash in debt, with no clear idea of how you’ll pay it back.
