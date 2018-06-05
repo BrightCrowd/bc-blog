@@ -26,7 +26,7 @@ Here are some open-ended questions that can help you out of those inevitable net
 
 **“If you didn’t have to work for money, what would you do?”** – Great question, right? For some lucky few, it would be “exactly what I’m doing now!” But this question opens the door for folks to share flights of fancy. You might discover dreams of starting a nonprofit, or moving to China, or living on a fishing boat. It’s seriously great conversation fodder.
 
-**“Did you know five years ago that this is where you’d be?”** – This question is awesome, because it invites someone to open up about their career trajectory. How did they get here? What would their younger self have thought about their current exploits. You might just pick up some career tips, too.
+**“Did you know five years ago that this is where you’d be?”** – This question is awesome, because it invites someone to open up about their career trajectory. How did they get here? What would their younger self have thought about their current exploits? You might just pick up some career tips, too.
 
 **“What are you passionate about?”** – If you’re getting along well with someone, this is a fantastic question that’s open-ended enough that it can shift out of a professional context. After all -- a person’s values can inform their whole life.
 
