@@ -20,7 +20,7 @@ node('master') {
         if (env.BRANCH_NAME == 'master') {
           sh "JEKYLL_ENV=production jekyll build"
         } else {
-          sh "JEKYLL_ENV=production jekyll build --config '_config.yml,_config_dev.yml'"
+          sh "JEKYLL_ENV=production jekyll build --drafts --config '_config.yml,_config_dev.yml'"
         }
 
         archive '_site/**'
