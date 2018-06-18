@@ -165,6 +165,7 @@ img {
     clear: both;
 }
 
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -178,6 +179,7 @@ img {
   padding:28px;
   @include mobile {
     margin-bottom:42px;
+    padding:28px 14px;
   }
 }
 
@@ -185,10 +187,6 @@ img {
   display:flex;
   justify-content:space-between;
   align-items:center;
-  @include mobile {
-    display:block;
-    text-align:center;
-  }
 }
 
 .site-avatar {
@@ -197,6 +195,11 @@ img {
   img{
     height: 38px;
     width: 150px;
+    @include mobile {
+      object-position:left;
+      object-fit:cover;
+      width: 30px;
+    }
   }
   @include mobile {
     display: block;
@@ -228,21 +231,40 @@ img {
 
 nav {
   font-family: $bc-font;
-  font-size: 18px;
+  font-size: 14px;
   @include mobile {
-    margin-top: 21px;
     display: block;
-    font-size: 16px;
+    font-size: 12px;
   }
-
   a {
-    margin-right: 28px;
+    margin-left: 28px;
     text-align: right;
-
-    @include mobile {
-      color: $blue;
-      margin:0 14px;
-      text-align: center;
+    font-weight:400;
+    color:$bc-grey-500;
+    &:last-child{
+      background:fade($bc-blue-500, 0%);
+      color:$bc-blue-500;
+      border:2px solid $bc-blue-500;
+      display:inline-block;
+      padding:7px 14px;
+      border-radius:3px;
+      .icon-wrapper{
+        display:inline-block;
+        margin-right:4px;
+        svg{
+          fill:$bc-blue-500;
+        }
+      }
+      &:focus{
+        color:$bc-blue-500;
+      }
+      &:hover{
+        background:$bc-blue-500;
+        color:$white;
+        svg{
+          fill:$white;
+        }
+      }
     }
   }
 }
