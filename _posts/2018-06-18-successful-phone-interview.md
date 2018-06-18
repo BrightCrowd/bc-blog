@@ -3,6 +3,7 @@ layout: post
 title: The Keys to a Successful Phone Interview
 subtitle: Can you hear me now?
 categories: advice
+date: 2018-06-18 09:00:00 -0800
 author: tjduane
 image: /assets/images/hero-phone-interview.jpg
 ---
