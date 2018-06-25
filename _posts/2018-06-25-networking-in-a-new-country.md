@@ -3,7 +3,7 @@ layout: post
 title: Networking in a New Country
 subtitle: What I’ve Learned About Networking as an Immigrant
 categories: guest
-date: 2018-06-25 09:00:00 -0500
+date: 2018-06-24 09:00:00 -0800
 author: tbabbar
 image: /assets/images/hero-tarun.jpg
 ---
