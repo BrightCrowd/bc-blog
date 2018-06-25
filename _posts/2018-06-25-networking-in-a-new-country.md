@@ -3,6 +3,7 @@ layout: post
 title: Networking in a New Country
 subtitle: What I’ve Learned About Networking as an Immigrant
 categories: guest
+date: 2018-06-25 09:00:00 -0800
 author: tbabbar
 image: /assets/images/hero-tarun.jpg
 ---
@@ -43,7 +44,7 @@ Always make the offer even if someone can’t help you, and even if they don’t
 
 I knew about 3 people when I moved here. By offering to help the people in their networks, my own has grown by leaps and bounds. People are always offering to introduce me to someone else, creating valuable new links in my Canadian network.
 
-Though I am still learning to be a better networker, this giving, positive mindset has helped me immensely. Remember, you can always [message me on BrightCrowd][bio1] if you’d like to discuss networking, startups, or life as an immigrant. 
+Though I am still learning to be a better networker, this giving, positive mindset has helped me immensely. Remember, you can always [message me on BrightCrowd][bio1] if you’d like to discuss networking, startups, or life as an immigrant.
 
 
 _[Tarun Babbar][bio1] is an MBA from Cornell University with a decade of experience in helping grow organizations in the technology and e-Commerce space. He has led customer acquisition & retention, analytics, products, sales, and business development in North America, Australia, and India. He enjoys traveling, mountaineering, fitness activities, and improving thinking & human potential. He’s an aspiring entrepreneur who just began his journey in Toronto._
