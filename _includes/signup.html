@@ -1,0 +1,25 @@
+<script src="{{ site.baseurl }}/assets/js/jquery/jquery-3.3.1.min.js"></script>
+<script type='text/javascript'>
+  function signup(e) {
+    e.preventDefault();
+    var data = $('#signup').serialize();
+    $.ajax({
+      type: 'POST',
+      url: 'https://api.brightcrowd.com/api/mailgun/contactus',
+      crossDomain: true,
+      data,
+      dataType: 'json'
+    });
+  }
+</script>
+
+<div class="signup">
+  <h1>Get career tips in your inbox every week:</h1>
+  <form id='signup' accept-charset="UTF-8">
+    <input type="email" name="email" placeholder="Your Email">
+    <input type="text" name="name" placeholder="Your Name">
+    <input type="hidden" name="subject" value="Newsletter Signup">
+    <input type="hidden" name="utf8" value="✓">
+    <button onclick="signup(event)">Submit</button>
+  </form>
+</div>
