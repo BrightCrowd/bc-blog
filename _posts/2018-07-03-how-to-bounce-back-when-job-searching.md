@@ -46,4 +46,6 @@ It ultimately wasn’t embarrassing to have to tell everybody I didn’t get it 
 
 <hr>
 
-Remember, you can find support and advice like this on BrightCrowd.com.
+Remember, you can find support and advice like this on [BrightCrowd.com][brightcrowd].
+
+[brightcrowd]: https://brightcrowd.com
