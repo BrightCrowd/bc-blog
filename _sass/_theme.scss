@@ -43,24 +43,59 @@ body {
   }
 }
 
-.signup{
+.sidebar{
+  position:absolute;
+  top:171px;
+  right:0;
+  max-width: 301px;
+  .button--blue{
+    width:100%;
+  }
   input{
-    height: 50px;
-    width: 300px;
-    font-size: medium;
-    font-style: italic;
-    color: gray
+    width:100%;
   }
-  button{
-    height: 50px;
-    width: 100px;
-    font-size: medium;
-    color: blue
+  @include mobile {
+    display:none;
   }
+}
+
+.button--blue{
+  background:$bc-blue-500;
+  color:$white;
+  border:2px solid $bc-blue-500;
+  display:inline-block;
+  padding:7px 14px;
+  border-radius:3px;
+  font-size: 18px;
+  font-family: $bc-font;
+  margin:7px 0;
+}
+
+.signup{
+  @include gradient($direction:120deg, $from:$bc-blue-500, $to:$bc-seafoam-500);
+  padding: 28px;
   .error{
     border-color:lightcoral;
   }
+  @include mobile {
+    .button--blue{
+      width:100%;
+    }
+    input{
+      width:100%;
+    }
+  }
 }
+
+.signup_title{
+  color:$white;
+}
+
+.signup_desc{
+  color:$white;
+}
+
+
 
 .page{
   max-width: 602px;
@@ -154,6 +189,22 @@ img {
   max-width: 100%;
 }
 
+input{
+  font-family: $bc-font;
+  box-shadow:none;
+  @include placeholder($color: $bc-grey-400);
+  color:$bc-grey-600;
+  border: 2px solid $bc-grey-300;
+  -webkit-appearance: none;
+  border-radius:3px;
+  padding:7px;
+  font-size: 18px;
+  &:focus{
+    box-shadow:none;
+    border: 2px solid $bc-primary;
+  }
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -186,6 +237,17 @@ img {
 
 .clearfix:after {
     clear: both;
+}
+
+.sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
 }
 
 

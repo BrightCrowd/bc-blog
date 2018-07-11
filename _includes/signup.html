@@ -26,13 +26,14 @@
 </script>
 
 <div class="signup">
-  <h1 class="site-name">Move your career forward!</h1>
-  <h2 class="site-description">Join thousands figuring out their path with these tips in your inbox weekly!</h2>
+  <h1 class="signup_title">Move your career forward!</h1>
+  <h2 class="signup_desc">Join thousands figuring out their path with these tips in your inbox weekly!</h2>
   <form id='signup' accept-charset="UTF-8">
-    <input type="email" name="email" placeholder="Enter Your Email">
+    <label for='email' class='sr-only'>Email Address</label>
+    <input type="email" name="email" placeholder="Your Email">
     <!-- <input type="text" name="name" placeholder="Your Name"> -->
     <input type="hidden" name="subject" value="Newsletter Signup">
     <input type="hidden" name="utf8" value="✓">
-    <button onclick="signup(event, '{{include.context}}')">Subscribe</button>
+    <button class='button--blue' onclick="signup(event, '{{include.context}}')">Subscribe</button>
   </form>
 </div>
