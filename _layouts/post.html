@@ -3,6 +3,10 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
+<div class="sidebar">
+  {% include signup.html context="sidebar" %}
+</div>
+
 <article class="post">
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}  ･  Written by {{ author.name }}
@@ -33,4 +37,9 @@ layout: default
       <a href="{{ site.github.repository_url }}/edit/develop/{{ page.relative_path }}">Edit</a>
     {% endif %}
   </div>
+
 </article>
+
+<div class="post-footer">
+  {% include signup.html context="post-footer" %}
+</div>

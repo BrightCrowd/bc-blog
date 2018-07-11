@@ -21,6 +21,10 @@ body {
   min-height:100vh;
   > .post{
     max-width: 602px;
+    margin:0 auto 40px;
+  }
+  > .post-footer{
+    max-width: 602px;
     margin:0 auto 140px;
   }
   > .posts{
@@ -36,6 +40,25 @@ body {
         margin:7px 0;
       }
     }
+  }
+}
+
+.signup{
+  input{
+    height: 50px;
+    width: 300px;
+    font-size: medium;
+    font-style: italic;
+    color: gray
+  }
+  button{
+    height: 50px;
+    width: 100px;
+    font-size: medium;
+    color: blue
+  }
+  .error{
+    border-color:lightcoral;
   }
 }
 

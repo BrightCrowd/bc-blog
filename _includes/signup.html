@@ -1,26 +1,38 @@
-<script src="{{ site.baseurl }}/assets/js/jquery/jquery-3.3.1.min.js"></script>
 <script type='text/javascript'>
-  function signup(e) {
+  function signup(e, context) {
     e.preventDefault();
-    var data = $('#signup').serialize();
-    $.ajax({
-      type: 'POST',
-      url: 'https://api.brightcrowd.com/api/mailgun/contactus',
+
+    var emailInput = $('.' + context + ' input[name="email"]');
+    var email = emailInput.val();
+    var isEmailIsh = /\S+@\S+\.\S+/;
+
+    emailInput.removeClass('error');
+    if (!isEmailIsh.test(email)) {
+      emailInput.addClass('error');
+      return;
+    }
+
+    $.post({
+      // url: 'https://api.brightcrowd.com/api/mailgun/contactus',
+      url: 'http://postb.in/grUan2wp',
       crossDomain: true,
-      data,
-      dataType: 'json'
-    });
+      data: $('.' + context + ' #signup').serialize(),
+      // dataType: 'json'
+      complete: function() {
+        window.location = 'member.html';
+      }
+    })
   }
 </script>
 
 <div class="signup">
-  <h1 class="site-name">Sign up for weekly career tips</h1>
-  <h2 class="site-description">and join the thousands already figuring out their path.</h2>
+  <h1 class="site-name">Move your career forward!</h1>
+  <h2 class="site-description">Join thousands figuring out their path with these tips in your inbox weekly!</h2>
   <form id='signup' accept-charset="UTF-8">
-    <input type="email" name="email" placeholder="Your Email">
-    <input type="text" name="name" placeholder="Your Name">
+    <input type="email" name="email" placeholder="Enter Your Email">
+    <!-- <input type="text" name="name" placeholder="Your Name"> -->
     <input type="hidden" name="subject" value="Newsletter Signup">
     <input type="hidden" name="utf8" value="✓">
-    <button onclick="signup(event)">Subscribe</button>
+    <button onclick="signup(event, '{{include.context}}')">Subscribe</button>
   </form>
 </div>
