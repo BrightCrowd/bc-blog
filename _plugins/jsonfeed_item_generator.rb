@@ -46,7 +46,7 @@ module Jekyll
         output['id'] = site.config['url'] + site.baseurl + post.id
         output['url'] = site.config['url'] + site.baseurl + post.url
         output['title'] = post.data['title']
-        output['content'] = converter.convert(post.content)
+        output['content_html'] = converter.convert(post.content)
         output['summary'] = post.data['excerpt']
         output['image'] = site.config['url'] + site.baseurl + (post.data['image']['path'] || post.data['image'])
         # output['banner_image'] = post.data['banner_image']['path'] || post.data['banner_image']
