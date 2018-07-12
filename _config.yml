@@ -43,6 +43,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-auto-image
+  - jekyll-json-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -104,3 +105,8 @@ twitter:
 
 github:
   repository_url: https://github.com/Brightcrowd/bc-blog
+
+# CORS support during local testing
+webrick:
+  headers:
+    Access-Control-Allow-Origin: '*'
