@@ -1,0 +1,26 @@
+<script type='text/javascript'>
+  function signup(e, context) {
+    e.preventDefault();
+
+    var emailInput = $('.' + context + ' input[name="email"]');
+    var email = emailInput.val();
+    var isEmailIsh = /\S+@\S+\.\S+/;
+
+    emailInput.removeClass('error');
+    if (!isEmailIsh.test(email)) {
+      emailInput.addClass('error');
+      return;
+    }
+
+    $.post({
+      // url: '{{site.apibaseurl}}/api/mailgun/contactus',
+      url: 'http://postb.in/cBNEeYPc',
+      crossDomain: true,
+      data: $('.' + context + ' #signup').serialize(),
+      // dataType: 'json'
+      complete: function() {
+        window.location = '{{ site.baseurl }}/subscribed';
+      }
+    })
+  }
+</script>
