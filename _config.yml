@@ -22,6 +22,7 @@ baseurl: "" # adjust s3 location in Jenkinsfile accordingly
 url: "https://blog.brightcrowd.com"
 
 bcurl: https://brightcrowd.com
+apibaseurl: https://api.brightcrowd.com
 
 facebook:
   app_id: 1584150891861483

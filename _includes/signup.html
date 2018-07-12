@@ -13,13 +13,13 @@
     }
 
     $.post({
-      // url: 'https://api.brightcrowd.com/api/mailgun/contactus',
-      url: 'http://postb.in/4P0UmJxX',
+      url: '{{site.apibaseurl}}/api/mailgun/contactus',
+      // url: 'http://postb.in/4P0UmJxX',
       crossDomain: true,
       data: $('.' + context + ' #signup').serialize(),
       // dataType: 'json'
       complete: function() {
-        window.location = '{{ site.baseurl }}/member';
+        window.location = '{{ site.baseurl }}/subscribed';
       }
     })
   }
