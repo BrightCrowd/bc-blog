@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<div class="index-headline">
+  <!-- <img src="{{site.baseurl}}/assets/images/logomark.png"> -->
+  <h1>Achieve your career goals <br>(or figure them out)</h1>
+  <p>BrightCrowd is the weekly email for people who know they need to “network”, but aren’t always sure where to begin. </p>
+</div>
+
+<div class="index-signup">
+  {% include signup.html context="index-signup" %}
+</div>
+
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
