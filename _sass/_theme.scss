@@ -95,17 +95,7 @@ body {
   color:$white;
 }
 
-.index-signup{
-  text-align: center;
-}
 
-.index-headline{
-  max-width: 750px;
-  margin:0 auto;
-  img {
-    max-width:200px;
-  }
-}
 
 
 .page{
@@ -426,20 +416,34 @@ footer {
 
 
 .index-headline{
+  margin:0 auto;
+}
+
+
+.index-headline{
   text-align:center;
+  @include gradient($direction:120deg, $from:$bc-blue-500, $to:$bc-seafoam-500);
+  padding: 42px;
+  min-height:70vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
   .title{
     font-size: 87px;
-    font-weight:700;
+    font-weight:800;
+    color:$white;
     span{
       display:block;
       font-weight:400;
       font-style:italic;
-      font-size: 37px;
+      font-size: 57px;
     }
   }
   .lead{
+    color:$white;
     font-size: 37px;
     font-weight:300;
-    color: $bc-grey-900;
+    max-width:750px;
+    margin:0 auto;
   }
 }
