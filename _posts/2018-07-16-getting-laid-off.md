@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Story - Getting Laid Off
+title: "My Story: Getting Laid Off"
 subtitle: How I recovered from the unexpected
 categories: guest
 date: 2018-07-16 09:00:00 -0800
