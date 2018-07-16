@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       <div class="date">
-        {{ post.date | date: "%B %e" }}
+        {{ post.date | date: "%B %e" }} ･ {{site.data.authors[post.author].name}}
       </div>
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
