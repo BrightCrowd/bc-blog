@@ -423,3 +423,23 @@ footer {
   padding: 28px 0;
   text-align: center;
 }
+
+
+.index-headline{
+  text-align:center;
+  .title{
+    font-size: 87px;
+    font-weight:700;
+    span{
+      display:block;
+      font-weight:400;
+      font-style:italic;
+      font-size: 37px;
+    }
+  }
+  .lead{
+    font-size: 37px;
+    font-weight:300;
+    color: $bc-grey-900;
+  }
+}
