@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Story: Getting Laid Off"
-subtitle: How I recovered from the unexpected
+title: "Surviving (and thriving) after a shock"
+subtitle: How a layoff led me to the unexpected
 categories: guest
 date: 2018-07-16 09:00:00 -0800
 author: epai
