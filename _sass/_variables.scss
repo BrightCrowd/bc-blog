@@ -162,7 +162,7 @@ $bc-body-font : "lato", "Georgia", serif;
 @mixin animation-keyframes {
   $animation-number: 0 !default !global;
   $animation-number: $animation-number + 1 !global;
-  $name: unquote("การเคลื่อนไหวที่-#{$animation-number}");
+  $name: unquote("bc-blog-animation-#{$animation-number}");
   animation-name: $name;
   @at-root {
     @keyframes #{$name} {
