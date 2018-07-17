@@ -2,7 +2,7 @@
 layout: course
 title: Networking your way to a better job in 30 days
 categories: course
-permalink: /courses/thirty-day-bootcamp/index.html
+permalink: /courses/better-job-30-days/index.html
 ---
 
 
