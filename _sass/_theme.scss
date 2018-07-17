@@ -25,7 +25,10 @@ body {
   }
   > .post-footer{
     max-width: 602px;
-    margin:0 auto 140px;
+    margin:70px auto 140px;
+    .signup{
+      padding:70px 48px;
+    }
   }
   > .posts{
     display:flex;
@@ -45,16 +48,37 @@ body {
 
 .sidebar{
   position:absolute;
-  top:171px;
-  right:0;
+  top:170px;
+  right:calc(((100vw - 602px) / 2) - 328px);
   max-width: 301px;
+  animation-delay:1s;
+  @include animateCustomTime(1s);
+  @include animation-keyframes {
+    from {
+      opacity:0;
+      transform:translate3d(0, 50px, 0);
+    }
+    to {
+      opacity:1;
+      transform:translate3d(0, 0, 0);
+    }
+  }
   .button--blue{
     width:100%;
   }
   input{
     width:100%;
   }
+  .signup_title{
+    font-size:28px;
+  }
+  .signup_desc{
+    margin:0 0 14px;
+  }
   @include mobile {
+    display:none;
+  }
+  @include ds1200 {
     display:none;
   }
 }
@@ -74,6 +98,7 @@ body {
 .signup{
   @include gradient($direction:120deg, $from:$bc-blue-500, $to:$bc-seafoam-500);
   padding: 28px;
+  text-align:center;
   .error{
     border-color:lightcoral;
   }
@@ -89,10 +114,23 @@ body {
 
 .signup_title{
   color:$white;
+  margin:0 auto 7px;
 }
 
 .signup_desc{
   color:$white;
+  font-size:18px;
+}
+
+.index-signup{
+  max-width:450px;
+  margin:28px auto 120px;
+  .signup_desc{
+    font-weight:800;
+  }
+  @include mobile{
+    margin-bottom:28px;
+  }
 }
 
 
@@ -263,9 +301,13 @@ input{
 .wrapper-masthead {
   margin-bottom: 70px;
   padding:28px;
+  top:0;
+  position:sticky;
+  z-index:5;
   @include mobile {
     margin-bottom:42px;
     padding:28px 14px;
+    position:relative;
   }
 }
 
@@ -420,30 +462,144 @@ footer {
 }
 
 
-.index-headline{
+.index-headline,
+.subscribed{
   text-align:center;
-  @include gradient($direction:120deg, $from:$bc-blue-500, $to:$bc-seafoam-500);
-  padding: 42px;
-  min-height:70vh;
   display:flex;
   justify-content:center;
   align-items:center;
   .title{
-    font-size: 87px;
-    font-weight:800;
-    color:$white;
+    margin-bottom:28px;
+    margin-top:0;
     span{
       display:block;
-      font-weight:400;
-      font-style:italic;
-      font-size: 57px;
+      @include animateCustomTime(1s);
+      &:first-child{
+        font-size: 87px;
+        font-weight:800;
+        @include animation-keyframes {
+          from {
+            color: $bc-grey-700;
+            transform:translate3d(0, 0, 0);
+          }
+          to {
+            color: $white;
+            transform:translate3d(-3px, -3px, 0);
+            text-shadow: -1px -1px 0 $bc-blue-500, 1px -1px 0 $bc-blue-500, -1px 1px 0 $bc-blue-500, 1px 1px 0 $bc-blue-500, 5px 5px 0px $bc-blue-500, 10px 10px 0px $bc-seafoam-500;
+          }
+        }
+        @include mobile{
+          font-size:57px;
+        }
+      }
+      &:last-child{
+        font-weight:400;
+        font-style:italic;
+        font-size: 57px;
+        animation-delay:1s;
+        color:$bc-blue-500;
+        @include animation-keyframes {
+          from {
+            opacity:0;
+            transform:translate3d(0, -10px, 0);
+          }
+          to {
+            opacity:1;
+            transform:translate3d(0, 0, 0);
+          }
+        }
+        @include mobile{
+          font-size: 37px;
+        }
+      }
+    }
+  }
+  .lead{
+    font-size: 28px;
+    font-weight:300;
+    max-width:750px;
+    margin:0 auto;
+    color:$bc-grey-900;
+    @include mobile{
+      font-size:22px;
+      margin-bottom:28px;
+    }
+  }
+}
+
+.subscribed{
+  padding:70px;
+  margin:-70px -14px 70px;
+  @include mobile{
+    padding:70px 28px;
+  }
+  .title{
+    span{
+       &:last-child{
+        color:$white;
+       }
     }
   }
   .lead{
     color:$white;
-    font-size: 37px;
-    font-weight:300;
-    max-width:750px;
-    margin:0 auto;
+    @include mobile{
+      margin-bottom:28px;
+    }
+  }
+}
+
+.subscribed{
+  @include gradient($direction:120deg, $from:$bc-blue-500, $to:$bc-blue-600);
+  text-align:center;
+}
+
+.subscribed_checkmark__circle {
+  stroke-dasharray: 166;
+  stroke-dashoffset: 166;
+  stroke-width: 2;
+  stroke-miterlimit: 10;
+  stroke: $bc-seafoam-500;
+  fill: none;
+  animation: stroke .6s cubic-bezier(0.650, 0.000, 0.450, 1.000) forwards;
+}
+
+.subscribed_checkmark {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  display: block;
+  stroke-width: 2;
+  stroke: $white;
+  stroke-miterlimit: 10;
+  margin: 42px auto;
+  box-shadow: inset 0px 0px 0px $bc-seafoam-500;
+  animation: fill .4s ease-in-out .4s forwards, scale .3s ease-in-out .9s both;
+}
+
+.subscribed_checkmark__check {
+  transform-origin: 50% 50%;
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+  animation: stroke .3s cubic-bezier(0.650, 0.000, 0.450, 1.000) .8s forwards;
+}
+
+@keyframes stroke {
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes scale {
+  0%, 100% {
+    transform: none;
+  }
+  50% {
+    transform: scale3d(1.1, 1.1, 1);
+  }
+}
+
+@keyframes fill {
+  100% {
+    box-shadow: inset 0px 0px 0px 140px $bc-seafoam-500;
   }
 }
