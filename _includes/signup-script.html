@@ -12,12 +12,14 @@
       return;
     }
 
+    var data = $('.' + context + ' #signup').serialize();
+    console.log(data);
+
     $.post({
       url: '{{site.apibaseurl}}/api/mailgun/contactus',
-      // url: 'http://postb.in/cBNEeYPc',
+      // url: 'http://postb.in/ZuqTPMGz',
       crossDomain: true,
-      data: $('.' + context + ' #signup').serialize(),
-      dataType: 'json',
+      data: data,
       complete: function() {
         window.location = '{{ site.baseurl }}/subscribed';
       }
