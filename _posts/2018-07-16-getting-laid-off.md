@@ -59,7 +59,7 @@ Finally, I realized how many people around me have gone through a layoff. Before
 
 By sharing my story with others, I learned that I wasn’t the only one who had gone through it. I always had my family and friends to support me when I was down and out -- they helped me gain confidence when I needed it most.  
 
-<hr>
+-----
 
 _[Eric Pai][profile] is a second generation Korean American from the West Coast; who now, self-admittedly, is a New Yorker. Eric has worked in various CPG companies like Unilever, Vita Coco, and KIND and holds an MBA from NYU. After his recent layoff, he started blogging about self-improvement, faith, and education with the intent to uplift others. He also likes to travel, do obstacle races and jiu-jitsu, and is starting a nonprofit around youth mentorship._
 
