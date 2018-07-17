@@ -6,7 +6,7 @@ categories: guest
 date: 2018-07-16 09:00:00 -0800
 author: epai
 image: /assets/images/hero-epai.jpg
-excerpt_separator: <!--end preview-->
+excerpt: "One BrightCrowd member's experience about getting laid off and finding the silver lining."
 ---
 
 It happened. I got laid off.
@@ -15,9 +15,7 @@ My manager asked me to come in at 8:30am on a Friday. He never arrived earlier t
 
 I was immediately brought into our legal counsel's office and the door was shut behind me.
 
-<!--end preview-->
-
-My manager explained that the company was downsizing, my role was no longer needed, and none of this was due to performance issues. I was handed my severance package, and, effective immediately, I was no longer part of the company.
+My manager explained that the company was downsizing, my role was no longer needed, and none of this was due to performance issues. I was handed my severance package and, effective immediately, I was no longer part of the company.
 
 I felt like the wind got knocked out of me. I had only been at the company for seven months. I was blindsided.
 
@@ -63,9 +61,9 @@ By sharing my story with others, I learned that I wasn’t the only one who had 
 
 <hr>
 
-_This post was [originally published][post] on June 2, 2018 on [ericpai.com][site]. Eric got a job after 5 months of unemployment, but is still looking for opportunities in the education space._
-
 _[Eric Pai][profile] is a second generation Korean American from the West Coast; who now, self-admittedly, is a New Yorker. Eric has worked in various CPG companies like Unilever, Vita Coco, and KIND and holds an MBA from NYU. After his recent layoff, he started blogging about self-improvement, faith, and education with the intent to uplift others. He also likes to travel, do obstacle races and jiu-jitsu, and is starting a nonprofit around youth mentorship._
+
+_This post was [originally published][post] on June 2, 2018 on [ericpai.com][site]. Eric got a job after 5 months of unemployment, but is still looking for opportunities in the education space._
 
 [brightcrowd]: https://brightcrowd.com
 [site]: https://www.ericpai.com
