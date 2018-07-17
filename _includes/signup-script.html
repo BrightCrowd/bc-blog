@@ -17,7 +17,7 @@
       // url: 'http://postb.in/cBNEeYPc',
       crossDomain: true,
       data: $('.' + context + ' #signup').serialize(),
-      dataType: 'json'
+      dataType: 'json',
       complete: function() {
         window.location = '{{ site.baseurl }}/subscribed';
       }
