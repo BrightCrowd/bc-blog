@@ -100,3 +100,73 @@ $bc-body-font : "lato", "Georgia", serif;
     @content;
   }
 }
+
+// Mobile breakpoints
+@mixin ds1200 {
+  @media screen and (max-width: 1200px) {
+    @content;
+  }
+}
+
+
+
+@mixin placeholder($color) {
+  &::-webkit-input-placeholder {
+
+    /* WebKit browsers */
+    color: $color;
+    font-weight: 400;
+    font-style:italic;
+  }
+
+  &:-moz-placeholder {
+
+    /* Mozilla Firefox 4 to 18 */
+    color: $color;
+    opacity: 1;
+    font-weight: 400;
+    font-style:italic;
+  }
+
+  &::-moz-placeholder {
+
+    /* Mozilla Firefox 19+ */
+    color: $color;
+    opacity: 1;
+    font-weight: 400;
+    font-style:italic;
+  }
+
+  &:-ms-input-placeholder {
+
+    /* Internet Explorer 10+ */
+    color: $color;
+    font-weight: 400;
+    font-style:italic;
+  }
+
+}
+
+@mixin gradient($direction, $from, $to) { 
+  background: -webkit-linear-gradient($direction, $from 0%, $to 100%);
+  background: -moz-linear-gradient($direction, $from 0%, $to 100%);
+  background: -o-linear-gradient($direction, $from 0%, $to 100%);
+  background: linear-gradient($direction, $from 0%, $to 100%); 
+}
+
+@mixin animateCustomTime($sec){
+  animation-duration: $sec;
+  animation-fill-mode: both;
+}
+
+@mixin animation-keyframes {
+  $animation-number: 0 !default !global;
+  $animation-number: $animation-number + 1 !global;
+  $name: unquote("bc-blog-animation-#{$animation-number}");
+  animation-name: $name;
+  @at-root {
+    @keyframes #{$name} {
+      @content;
+    }
+  }
+}
