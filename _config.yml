@@ -27,6 +27,7 @@ apibaseurl: https://api.brightcrowd.com
 facebook:
   app_id: 1584150891861483
   publisher: https://facebook.com/BrightCrowd
+  pixel_id: 1016209871803654
 
 google_analytics: UA-54131651-4
 
