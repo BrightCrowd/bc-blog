@@ -31,7 +31,7 @@ You won’t do it alone. In three emails a week (full of checklists, straightfor
 
 {% for item in site.courses %}
 {% if item.categories contains 'lesson' %}
-> ## <a href="{{ item.url }}">{{ item.title }}</a>
+> ## <a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a>
 > {{ item.excerpt | strip_html }}
 
 {% endif %}
