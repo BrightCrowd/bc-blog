@@ -112,3 +112,7 @@ github:
 webrick:
   headers:
     Access-Control-Allow-Origin: '*'
+
+collections:
+  courses:
+    output: true
