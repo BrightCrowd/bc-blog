@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "Lesson 3: Picture-Perfect"
+title: "Lesson 4: Picture-Perfect"
 categories: course lesson
 course: "The 30 Day Networking Challenge"
 ---

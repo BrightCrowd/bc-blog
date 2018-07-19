@@ -1,6 +1,6 @@
 ---
 layout: course
-title: "Lesson 1: Tell your story"
+title: "Lesson 1: Tell Your Story"
 categories: course lesson
 course: "The 30 Day Networking Challenge"
 ---
