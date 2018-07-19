@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Networking your way to a better job in 30 days
+title: The 30 Day Networking Challenge
 subtitle: Networking is Super Awkward
 categories: course
 permalink: /courses/better-job-30-days/index.html
