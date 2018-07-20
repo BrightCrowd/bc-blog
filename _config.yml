@@ -108,11 +108,6 @@ twitter:
 github:
   repository_url: https://github.com/Brightcrowd/bc-blog
 
-# CORS support during local testing
-webrick:
-  headers:
-    Access-Control-Allow-Origin: '*'
-
 collections:
   courses:
     output: true

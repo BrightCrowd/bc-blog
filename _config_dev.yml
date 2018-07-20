@@ -5,3 +5,8 @@ apibaseurl: https://api.dev.brightcrowd.com
 
 sass:
     style: :expanded
+
+# CORS support during local testing
+webrick:
+  headers:
+    Access-Control-Allow-Origin: '*'
