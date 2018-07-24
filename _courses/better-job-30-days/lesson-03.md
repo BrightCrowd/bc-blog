@@ -27,7 +27,7 @@ Use the cover letter [template in this blog post][blog 3] to develop your own qu
 
 **Extra Credit**: Get a [cover letter template][examples] that complements your resume, for A+ style.
 
-Best, <br>
+Best,\
 T.J.
 
 # Next week…

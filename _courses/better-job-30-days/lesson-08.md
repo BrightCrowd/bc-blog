@@ -27,7 +27,7 @@ Send 3 messages to alumni on [BrightCrowd], asking for a quick informational int
 
 **Extra Credit**: Why stop there? If you see more than 3 cool people who’d be great to speak with, message them. Not everyone will reply, so don’t get too worried if you don’t hear back. It’s appropriate to send a follow-up message in a week, but if there’s still no reply, [let it go][video 1].
 
-Best, <br>
+Best,\
 T.J.
 
 **Up Next**: Keep on expanding your professional circle, by reaching out to people in your industry.

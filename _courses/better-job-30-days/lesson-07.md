@@ -41,7 +41,7 @@ That’s it.
 
 **Extra Credit**: Share your message with somebody you trust. Get feedback, and feel confident that you sound awesome! (Psych yourself up, is what I’m saying.)
 
-Best, <br>
+Best,\
 T.J.
 
 **Up Next**: You’ll start really meeting people! For real. :-)

@@ -38,7 +38,7 @@ When you network, it’s up to you to provide all of that context upfront. Your 
 
 **EXTRA CREDIT**: You can get extra inspiration for your story [from this doc][stories]. Then, share what you’ve written on the doc for feedback.
 
-Best, <br>
+Best,\
 T.J.
 
 **Up next**: On Wednesday we’ll go over best practices for resumes. After all, even if you’re not looking for work, a slick resume is awesome to have in your back pocket.
