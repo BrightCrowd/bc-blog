@@ -36,8 +36,8 @@ Anyway, the Helpful Alum provided the contact information for the person he thou
 Then the Bad Networker had the audacity to respond with this:
 
 > **Bad Networker**: I just spoke with your contact, but he’s no longer affiliated with the State Department. He had insight on the application process, but I’m seeking the opportunity to actually apply and meet recruiters.
-
-Do you have any other contacts that would be interested in supporting my efforts?
+>
+>Do you have any other contacts that would be interested in supporting my efforts?
 
 Yikes. This is just bad form. You should never complain that a connection (given generously) didn’t yield exactly the results you were hoping for.
 
