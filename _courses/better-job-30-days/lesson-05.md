@@ -20,13 +20,13 @@ Use [this checklist][worksheet] to update all of your professional profiles onli
 
 **Extra Credit**: If you’re a creative professional, **definitely** spend some time on your portfolio! Link to work samples directly on each profile, so people can immediately understand how great your work is.
 
-Best,
+Best,  
 T.J.
 
 **Up Next**: We can’t ignore your whole social media presence, right? On Friday we’ll look at Twitter and Insta and Facebook, oh my!
 
 <!--  use absolute urls to copy/paste into email bodies -->
-[photo lesson]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-4
-[story worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-1-worksheet.pdf
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-5-worksheet.pdf
+[photo lesson]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-04
+[story worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-05-worksheet.pdf
 [profile]: https://brightcrowd.com/profile/me

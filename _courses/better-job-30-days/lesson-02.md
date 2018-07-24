@@ -35,13 +35,13 @@ Luckily there are a **ton of great resume templates available for free online**.
 6. Edit your resume. Take out anything that doesn’t support the story you’re telling (leave your high school, and possibly college, jobs behind).
 7. Take out lists of responsibilities. Replace them with your achievements. Use active words ([here’s a handy list][action words] to help you).
 
-Best,
+Best,  
 T.J.
 
 **Up Next**: What’s a resume without a super-compelling cover letter to go with it? I’ll get you started with some awesome examples and a template that’ll work wonders.
 
 <!--  use absolute urls to copy/paste into email bodies -->
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-1-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
 [google]: https://docs.google.com/document/u/0/?ftv=1&tgif=c#
 [microsoft]: https://templates.office.com/en-us/Resumes-and-Cover-Letters
 [pages]: https://www.template.net/business/resume/resume-templates-for-mac/

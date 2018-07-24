@@ -41,7 +41,7 @@ Professional headshots will usually cost between $150-$300 — it’s an investm
 
 **Extra Credit**: Make sure your finished photo is everywhere employers might look for you online.
 
-Best,
+Best,  
 T.J.
 
 **Up Next**: We’ll review your professional social network profiles, so that you’re approachable to anybody you want to connect with online.
@@ -49,4 +49,4 @@ T.J.
 
 <!--  use absolute urls to copy/paste into email bodies -->
 [profile]: https://brightcrowd.com/profile/me
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-4-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-04-worksheet.pdf
