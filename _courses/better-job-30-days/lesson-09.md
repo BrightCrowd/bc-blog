@@ -24,7 +24,7 @@ Message 3 folks outside your alumni network, via email or LinkedIn, for an infor
 
 ~~Extra Credit~~ **Non-Optional Reminder**:  Remember to reply quickly and to handle the logistics when somebody writes you back! Set up the calendar invite, and work with their schedule. It’s just good manners.
 
-Best,\
+Best,  
 T.J.
 
 **Next Week**: Hopefully you’ll have some great interviews scheduled very soon! Next week you’ll prepare to have productive and positive chats with the folks you’ve reached out to this week.

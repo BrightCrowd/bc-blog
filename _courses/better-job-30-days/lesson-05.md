@@ -20,7 +20,7 @@ Use [this checklist][worksheet] to update all of your professional profiles onli
 
 **Extra Credit**: If you’re a creative professional, **definitely** spend some time on your portfolio! Link to work samples directly on each profile, so people can immediately understand how great your work is.
 
-Best,\
+Best,  
 T.J.
 
 **Up Next**: We can’t ignore your whole social media presence, right? On Friday we’ll look at Twitter and Insta and Facebook, oh my!

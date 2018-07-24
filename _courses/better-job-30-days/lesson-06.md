@@ -36,7 +36,7 @@ Review your personal social media profiles, and delete or make private any conte
 
 **Extra Credit**: Bring your personal accounts in line with your professional ones — use the same headshot and professional descriptions. You might decide this isn’t the right choice for you, but it certainly will never hurt in the eyes of your professional contacts.
 
-Best,\
+Best,  
 T.J.
 
 ## Next Week:

@@ -24,7 +24,7 @@ I know I could talk forever about career stuff (have you noticed?) — it’s he
 
 **Extra Credit**: Ask your friends about how they handle informational interviews. They might have advice and experiences they can share that will help you get ready.
 
-Best,\
+Best,  
 T.J.
 
 **Up Next**: Wednesday we’ll be talking gratitude. It’s an essential part of networking, just want to make sure we’ve got it covered!

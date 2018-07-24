@@ -53,7 +53,7 @@ Here’s an example of how all these tips might look when you pull them together
 > Could we schedule a quick 15 minute call sometime that’s convenient for you? My lunch hour is open all next week.
 >
 > Thanks so much, I really appreciate your consideration. (Go Blue!) <br>
-> Best,\
+> Best,  
 > Todd
 
 And remember -- if you get the interview, be sure to show up on time and prepared! And [review these tips][post3] on how to make the most out of your new connection.  

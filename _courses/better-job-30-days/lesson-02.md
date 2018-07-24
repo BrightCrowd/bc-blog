@@ -35,7 +35,7 @@ Luckily there are a **ton of great resume templates available for free online**.
 6. Edit your resume. Take out anything that doesn’t support the story you’re telling (leave your high school, and possibly college, jobs behind).
 7. Take out lists of responsibilities. Replace them with your achievements. Use active words ([here’s a handy list][action words] to help you).
 
-Best,\
+Best,  
 T.J.
 
 **Up Next**: What’s a resume without a super-compelling cover letter to go with it? I’ll get you started with some awesome examples and a template that’ll work wonders.
