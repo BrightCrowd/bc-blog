@@ -5,11 +5,11 @@ categories: course lesson
 course: "The 30 Day Networking Challenge"
 ---
 
-We hope you enjoyed your weekend! Now it’s time to start putting yourself out there, bit by bit. Today, it’s time to talk photos.
+I hope you enjoyed your weekend! Now it’s time to start putting yourself out there, bit by bit. Today, it’s time to talk photos.
 
-A professional-looking headshot for your online networking profiles is a **must**. This might seem superficial to you, but hear us out.
+A professional-looking headshot for your online networking profiles is a **must**. This might seem superficial to you, but hear me out.
 
-Our research has shown that people are far more likely to write back when [your BrightCrowd profile][profile] has a clear, smiling photo. People have to make a lot of snap judgements about one another online, so we recommend you play it safe. Don’t risk rejection over a blurry or unprofessional photo.
+Our research has shown that people are far more likely to write back when [your BrightCrowd profile][profile] has a clear, smiling photo. People have to make a lot of snap judgements about one another online, so I recommend you play it safe. Don’t risk rejection over a blurry or unprofessional photo.
 
 Maybe you’re lucky enough to have a professional headshot provided by an employer — if so, make sure it appears everywhere you do online. If not, read on!
 
