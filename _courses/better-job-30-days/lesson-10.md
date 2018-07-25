@@ -31,5 +31,5 @@ T.J.
 
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-10-worksheet.pdf

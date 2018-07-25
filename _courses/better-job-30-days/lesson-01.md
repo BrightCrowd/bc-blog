@@ -43,7 +43,7 @@ T.J.
 
 **Up next**: On Wednesday we’ll go over best practices for resumes. After all, even if you’re not looking for work, a slick resume is awesome to have in your back pocket.
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
 [profile]: https://www.brightcrowd.com/profile/me
 [stories]: https://docs.google.com/document/d/1XVrsVAQsVVhfp7rBx_2DLmjvbTeNlUWFl9TE7F-K09k/edit

@@ -40,7 +40,7 @@ T.J.
 **Next week**: We’ll think back on what we learned. With tears in our eyes and a song in our hearts, perhaps?
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [BrightCrowd]: https://brightcrowd.com
 [Meetup]: https://www.meetup.com/
 [Eventbrite]: https://www.eventbrite.com/

@@ -40,7 +40,7 @@ T.J.
 
 **Up Next**: What’s a resume without a super-compelling cover letter to go with it? I’ll get you started with some awesome examples and a template that’ll work wonders.
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
 [google]: https://docs.google.com/document/u/0/?ftv=1&tgif=c#
 [microsoft]: https://templates.office.com/en-us/Resumes-and-Cover-Letters

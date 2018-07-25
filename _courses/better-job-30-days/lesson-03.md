@@ -34,7 +34,7 @@ T.J.
 
 You’ve made it! After you enjoy your weekend, it’ll be time to reach out. Well...just a little bit. Next week we’ll focus on making your web presence appealing, professional, and friendly.
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [blog 1]: https://blog.brightcrowd.com/urgent-resume-questions
 [blog 2]: https://blog.brightcrowd.com/make-an-offer-they-cant-refuse/
 [blog 3]: https://blog.brightcrowd.com/employer-focused-cover-letter/

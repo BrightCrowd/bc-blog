@@ -45,7 +45,7 @@ Awesome job with first 2 weeks of preparation. Do you feel more confident alread
 Armed with a killer web presence and interesting narrative, you can’t lose. (See you next week!)
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [article 1]: http://time.com/money/3510967/jobvite-social-media-profiles-job-applicants/
 [Facebook]: https://www.facebook.com/help/325807937506242/
 [Twitter]: https://twitter.com/en/privacy

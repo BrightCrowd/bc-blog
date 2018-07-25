@@ -31,6 +31,6 @@ T.J.
 
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [doc 1]: https://docs.google.com/document/d/1hd-iLFHdN3dRJ_ZH5cTX47KPnXTNxQpKZzj4mABzYoY/edit
 [video 1]: https://www.youtube.com/watch?v=moSFlvxnbgk

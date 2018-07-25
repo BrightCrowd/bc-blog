@@ -47,7 +47,7 @@ T.J.
 **Up Next**: You’ll start really meeting people! For real. :-)
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [blog 1]: https://blog.brightcrowd.com/the-art-of-the-ask/
 [blog 2]: https://blog.brightcrowd.com/informational-interview/
 [doc 1]: https://docs.google.com/document/d/1hd-iLFHdN3dRJ_ZH5cTX47KPnXTNxQpKZzj4mABzYoY/edit

@@ -47,6 +47,6 @@ T.J.
 **Up Next**: We’ll review your professional social network profiles, so that you’re approachable to anybody you want to connect with online.
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [profile]: https://brightcrowd.com/profile/me
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-04-worksheet.pdf

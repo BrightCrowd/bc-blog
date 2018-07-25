@@ -23,5 +23,5 @@ T.J.
 
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [blog]: https://blog.brightcrowd.com/thank-you/

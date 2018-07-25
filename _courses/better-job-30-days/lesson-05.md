@@ -25,7 +25,7 @@ T.J.
 
 **Up Next**: We can’t ignore your whole social media presence, right? On Friday we’ll look at Twitter and Insta and Facebook, oh my!
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [photo lesson]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-04
 [story worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-05-worksheet.pdf
