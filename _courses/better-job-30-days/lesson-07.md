@@ -37,7 +37,7 @@ So what’s the magic cold message formula?
 That’s it.
 
 # Your Assignment
- Check out [these message templates][doc 1] and choose the one that sounds right to you. Customize it to fit your professional goals and your industry. Remember, you’ll add a custom pieces to your message for every person you contact, this is just the framework.
+ Check out [these message templates][doc 1] and choose the one that sounds right to you. Customize it to fit your professional goals and your industry. Remember, you’ll add custom pieces to your message for every person you contact, this is just the framework.
 
 **Extra Credit**: Share your message with somebody you trust. Get feedback, and feel confident that you sound awesome! (Psych yourself up, is what I’m saying.)
 
@@ -47,7 +47,7 @@ T.J.
 **Up Next**: You’ll start really meeting people! For real. :-)
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [blog 1]: https://blog.brightcrowd.com/the-art-of-the-ask/
 [blog 2]: https://blog.brightcrowd.com/informational-interview/
 [doc 1]: https://docs.google.com/document/d/1hd-iLFHdN3dRJ_ZH5cTX47KPnXTNxQpKZzj4mABzYoY/edit

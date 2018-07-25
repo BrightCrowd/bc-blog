@@ -5,6 +5,8 @@ categories: course lesson
 course: "The 30 Day Networking Challenge"
 ---
 
+You've done a ton of valuable networking prep so far — today's the day you're going to start putting yourself out there. You don't need an incredibly polished persona to network effectively. You just need to be your best self, and tell your true story. A low-pressure way to start is with your social media.
+
 Whether you’re job hunting or just looking to make new connections, your online presence is crucial. If you’re cold emailing or messaging people, expect them to Google you before they reply.
 
 ## What will they see when they do?
@@ -25,7 +27,7 @@ T.J.
 
 **Up Next**: We can’t ignore your whole social media presence, right? On Friday we’ll look at Twitter and Insta and Facebook, oh my!
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [photo lesson]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-04
 [story worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
 [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-05-worksheet.pdf

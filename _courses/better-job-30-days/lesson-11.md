@@ -16,12 +16,12 @@ This is going to be a quick email, because it’s really that straightforward. S
 
 **Extra Credit**: Make it a handwritten note on nice cardstock (those stamps must be buried somewhere…)
 
-Best,<br>
+Best,  
 T.J.
 
 **Up Next**: Friday is our final lesson (so sad!) We’re going to look forward at your next big networking move...live events.
 
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [blog]: https://blog.brightcrowd.com/thank-you/

@@ -34,7 +34,7 @@ T.J.
 
 
 
-<!--  use absolute urls to copy/paste into email bodies -->
+
 [BrightCrowd]: http://brightcrowd.com/
 [blog 1]: https://blog.brightcrowd.com/3-reasons-university-network-crazy-valuable/
 [blog 2]: https://blog.brightcrowd.com/how-to-reach-out-to-alumni/
