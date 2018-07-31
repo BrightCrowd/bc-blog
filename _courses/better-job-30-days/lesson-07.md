@@ -5,9 +5,7 @@ categories: course lesson
 course: "The 30 Day Networking Challenge"
 ---
 
-Welcome to Week 3! Here’s where the rubber meets the road. This week, you’re going to start cold emailing contacts, and asking for informational interviews.
-
-\*Gulp\*
+Welcome to Week 3! Here’s where the rubber meets the road. This week, you’re going to start cold emailing contacts, and asking for informational interviews. Now you may be asking, "What the heck's an [informational interview][blog 2]?" In short, it's a networking technique that's great for everybody looking toward a career shift, not just people who are actively job hunting.
 
 I know this sounds like a big leap, but I promise you’ll make it to the other side. And don’t worry — we won’t start messaging folks until Wednesday. Today’s just prep work.
 
@@ -31,7 +29,7 @@ So what’s the magic cold message formula?
 
 1. You give a little gift in the form of gratitude or an offer.
 2. Share a little about yourself, your background, and your goals.
-3. Make a clear and reasonable ask (we like [informational interviews][blog 2] — they’re great for folks who are job hunting, or simply for learning about other industries).
+3. Make a clear and reasonable ask.
 4. End with thanks (of course).
 
 That’s it.
