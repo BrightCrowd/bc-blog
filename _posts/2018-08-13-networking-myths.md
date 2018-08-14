@@ -5,7 +5,7 @@ subtitle: "Don’t let these mindsets hold back your career."
 categories: advice
 date: 2018-08-13 09:00:00 -0800
 author: tjduane
-image: /assets/images/hero-networking-myths.png
+image: /assets/images/hero-networking-myths.jpg
 ---
 
 So often I hear from people who dread the prospect of networking.
