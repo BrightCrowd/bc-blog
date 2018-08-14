@@ -16,12 +16,12 @@
     console.log(data);
 
     $.post({
-      url: '{{site.apibaseurl}}/api/mailgun/contactus',
+      url: '{{site.apibaseurl}}/api/newsletters/subscribe',
       // url: 'http://postb.in/ZuqTPMGz',
       crossDomain: true,
       data: data,
       complete: function() {
-        window.location = '{{ site.baseurl }}/subscribed';
+        window.location = '{{site.baseurl}}/subscribed';
       }
     })
   }
