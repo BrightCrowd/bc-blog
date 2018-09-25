@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Keep in Touch"
+title: "Keep in Touch"
 subtitle: "Relationships change, but you can keep them strong."
 categories: advice
 date: 2018-09-24 09:00:00 -0800
