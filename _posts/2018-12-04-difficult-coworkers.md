@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Dealing with Difficult Coworkers"
+subtitle:
+categories: advice
+date: 2018-12-04 09:00:00 -0800
+author: tjduane
+image: /assets/images/hero-conversation.jpg
+---
+
+Lately, I’ve had a number of folks ask me about how to manage unpleasant coworkers and supervisors. Many of us have had a perfectly good workplace ruined by an unpleasant coworker (or two). I certainly have. Maybe we’ve even been that person for someone else. It’s a fact of working life that you won’t like everyone you work with. But what happens when the unpleasant coworker impinges on your ability to do your job or makes doing it more stressful?
+
+The first step is, actually, to take a step back. Get some perspective. Most people are in their own head most of the time and rarely think about how someone else might see a situation. They may not even realize they’re making things difficult for you. They may just be trying to get through the day. Before you confront them, try and think about what may be going on in their life, professionally and personally, that may be causing them to act the way they are. Maybe they’re going through a rough patch. Maybe they’re neurodivergent or from a different culture and don’t see certain behaviors the same way you do. Maybe they were trained wrong or not enough. Or maybe this job is not a good fit for them. You may not be able to impact it at all, but if you have some idea of the cause, it can make it easier for you to navigate.  
+
+After you feel you have a better understanding, consider raising it with the person in a constructive manner. Let them know that their how actions and/or words impact you in both positive and negative ways--again most people really have no idea how much what they say and do affects other people because we all spend so much time in our own heads. Layering your feedback with compliments will make it easier for them to take. It will also make it easier to say negative things if giving criticism is not in your wheelhouse. You can also allow them to give you (constructive) feedback as well so it becomes more of a conversation than a telling off. Once a person is aware that their behavior has an impact then the situation usually improves.
+
+Try to tackle these problems when they are small so they don’t snowball into a bigger problem. And above all, have these conversations when both parties are calm and professional. One [BrightCrowd] member recently told me about how she was in a situation like this in an old job.  Her coworker neglected to tell her that she was not doing a few small tasks she was supposed to do, until it became a huge issue.  This exploded into a crying confrontation that left her devastated--in front of customers! That incident ultimately made her decide to quit. Now, she says, she tries to always make sure to bring up her issues with coworkers quickly and privately to avoid that very situation.
+
+At [BrightCrowd] HQ, we actively encourage people to raise anything that rubs them the wrong way. To that end, we have something called a “pinch.” When in the course of regular events, someone says or does something that frustrates or upsets a team member, rather than keeping that frustration inside and letting it fester until it boils over, they can just say, “Hey, that was a bit of a pinch.” This way the person who made the pinch is made aware and can address it. This has been amazing for us, because not only does it keep the team humming with little internal strife, but often times the pinch is actually related to the work at hand so by raising it early on, it helps to improve our efficiency and the quality of our product.
+
+But what if your problem isn’t something easy to bring up person-to-person or what if that person refuses to listen? If they are continually disrespectful and actively difficult, then at some point, for the good of the company, you should probably kick it upstairs and raise it with your supervisor. Plan this out before you do it. You don’t want to seem like you’re complaining. Instead, frame it in such a way that it is clear the reason you are raising this is that you want the company to be as great as possible and you think it could be better but for this person’s actions. Always be prepared to present specific examples to back up your concerns.
+
+It can be hard to bring up issues with your coworkers, especially if you’re afraid it will come back to haunt you. A good supervisor shouldn’t bring your name up when talking to the unpleasant coworker about the complaint, but that doesn’t mean they won’t figure it out. If you get blowback from them, don’t be afraid to go to Human Resources if your company has one or let your supervisor know. If your supervisor is the one you’re having the problem with and they refused to fix it, HR is a great place to go and get help outside the hierarchy.
+
+In most cases, an unpleasant coworker simply doesn’t know they’re being a problem. Letting them know before a molehill becomes a mountain can save everyone a lot of stress and grief. Communication, as they say, is key. Don’t feel like you need to handle these situations alone. Sometimes reaching out privately to people outside of your company can put behavior in perspective and let you know if the situation you're dealing with is routine but amplified by your proximity to it or if it is abnormal and toxic. A good mentor can be a great sounding board for this once you establish a relationship. Your network is here for you on [BrightCrowd] and [it’s okay to reach out and ask for help][blog1].
+
+[blog1]: https://blog.brightcrowd.com/overcoming-fear-of-vulnerability/
+[BrightCrowd]: https://brightcrowd.com
