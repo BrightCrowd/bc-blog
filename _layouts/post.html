@@ -3,10 +3,6 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<div class="sidebar">
-  {% include signup.html context="sidebar" %}
-</div>
-
 <article class="post">
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}  ･  Written by {{ author.name }}
@@ -43,7 +39,3 @@ layout: default
   </div>
 
 </article>
-
-<div class="post-footer">
-  {% include signup.html context="post-footer" %}
-</div>
