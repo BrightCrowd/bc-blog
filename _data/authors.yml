@@ -6,6 +6,8 @@ zoellner:
   name: Andreas Zoellner
   picture: /assets/images/Andreas.jpg
   twitter: AMZoellner
+kkaraus:
+  name: Katherine Karaus
 smuchoney:
   name: Sara Muchoney
 zschwartz:
@@ -16,6 +18,8 @@ tbabbar:
   name: Tarun Babbar
 epai:
   name: Eric Pai
+khules:
+  name: Katta Hules
 brightcrowd:
   name: BrightCrowd
   twitter: BrightCrowd
