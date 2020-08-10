@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.6.2"
+gem "jekyll", "~> 3.9.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -17,6 +17,13 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-auto-image'
   gem 'jekyll-json-feed'
+  gem 'kramdown-parser-gfm'
+  gem 'kramdown-syntax-coderay'
+  # gem 'kramdown-math-mathjaxnode'
+  # gem 'kramdown-math-sskatex'
+  # gem 'kramdown-math-katex'
+  # gem 'kramdown-math-ritex'
+  # gem 'kramdown-math-itex2mml'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
