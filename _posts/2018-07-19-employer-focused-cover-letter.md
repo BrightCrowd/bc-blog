@@ -42,5 +42,5 @@ This formula works because it’s short, readable (the bullet points help with t
 
 You can get up-close and personal when you land the interview. And remember, the best way to get there is through a personal connection. Try [searching on BrightCrowd][brightcrowd] to see if there’s someone who can get your cover letter on the right desk.
 
-[blog 1]: https://blog.brightcrowd.com/make-an-offer-they-cant-refuse/
+[blog 1]: https://blog.brightcrowd.us/make-an-offer-they-cant-refuse/
 [brightcrowd]: https://brightcrowd.com

@@ -43,9 +43,9 @@ That’s not to say that your happiness set point can’t [change with effort][l
 - **Meditation** - [Studies have found][link12] that one hour of meditation per day can lead to a higher happiness set point.
 - **“Flow”** - [Flow][link13] is a highly focused mental state, first recognized by Hungarian psychologist Mihaly Csikszentmihalyi. As he explains in [his TED talk][link14], finding this state in work, art, or personal activities can increase overall happiness.
 - **Therapy** - A professional outside perspective can be helpful to fine-tune your emotional life, even when you’re doing OK. [Find a therapist][link15] if you think it’s right for you.
-- **Medication** - If you’re experiencing clinical depression, [medications can be effective][link16] in lifting or stabilizing your mood. Of course, speak with your doctor if you think you may be depressed.  
+- **Medication** - If you’re experiencing clinical depression, [medications can be effective][link16] in lifting or stabilizing your mood. Of course, speak with your doctor if you think you may be depressed.
 
-It’s important to remember that happiness takes work, even for the well-adjusted. There’s no shame in seeking professional help when you need it -- but if you’re nervous, speak with a trusted friend or family member. They may be able to share their experience and help you remember that you’re in good company. We’re all chasing happiness, in one way or another.  
+It’s important to remember that happiness takes work, even for the well-adjusted. There’s no shame in seeking professional help when you need it -- but if you’re nervous, speak with a trusted friend or family member. They may be able to share their experience and help you remember that you’re in good company. We’re all chasing happiness, in one way or another.
 
 (And as we come up on MCAT season, I hope these reminders help my fellow pre-med students, especially!)
 
@@ -62,7 +62,7 @@ It’s important to remember that happiness takes work, even for the well-adjust
 [link6]: https://en.wikipedia.org/wiki/Hedonic_treadmill
 [link7]: https://www.thecut.com/2016/01/classic-study-on-happiness-and-the-lottery.html
 [link8]: https://www.psychologytoday.com/blog/what-mentally-strong-people-dont-do/201506/5-problems-are-unique-high-achievers
-[link9]: https://blog.brightcrowd.com/embrace-your-imposter/
+[link9]: https://blog.brightcrowd.us/embrace-your-imposter/
 [link10]: http://www.nytimes.com/2013/04/21/fashion/happiness-inc.html
 [link11]: https://www.psychologytoday.com/blog/happiness-in-world/201304/how-reset-your-happiness-set-point
 [link12]: https://www.psychologytoday.com/blog/meditation-modern-life/201309/meditation-will-make-you-smarter-and-happier

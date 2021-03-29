@@ -54,6 +54,6 @@ The long and short of it? We can’t be experts at everything. Share what you’
 
 [search]: https://brightcrowd.com/people/search
 [gif1]: https://media.giphy.com/media/mp1JYId8n0t3y/giphy.gif
-[blog1]: https://blog.brightcrowd.com/networking-like-cavemen/
-[blog2]: https://blog.brightcrowd.com/life-saving-networking-questions/
+[blog1]: https://blog.brightcrowd.us/networking-like-cavemen/
+[blog2]: https://blog.brightcrowd.us/life-saving-networking-questions/
 [BrightCrowd]: https://brightcrowd.com

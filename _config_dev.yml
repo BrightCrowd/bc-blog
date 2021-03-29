@@ -1,7 +1,6 @@
 baseurl: "/branches/develop" # adjust s3 location in Jenkinsfile accordingly
 
-bcurl: https://dev.brightcrowd.com
-apibaseurl: https://api-dev.brightcrowd.com
+bcurl: https://dev.brightcrowd.us
 
 sass:
     style: :expanded

@@ -23,7 +23,7 @@ I wrote in the [Art of the Ask][blog 1] blog post about how to reframe a job app
 
 Here’s the secret…if you can’t offer something concrete, make gratitude your gift.
 
-Did your contact write a blog post you loved? Have they inspired you in some way (from afar?)  Are you grateful that they’re taking the time to read your email? Each of these sentiments is like giving a gift.  
+Did your contact write a blog post you loved? Have they inspired you in some way (from afar?)  Are you grateful that they’re taking the time to read your email? Each of these sentiments is like giving a gift.
 
 So what’s the magic cold message formula?
 
@@ -39,13 +39,13 @@ That’s it.
 
 **Extra Credit**: Share your message with somebody you trust. Get feedback, and feel confident that you sound awesome! (Psych yourself up, is what I’m saying.)
 
-Best,  
+Best,
 T.J.
 
 **Up Next**: You’ll start really meeting people! For real. :-)
 
 
 
-[blog 1]: https://blog.brightcrowd.com/the-art-of-the-ask/
-[blog 2]: https://blog.brightcrowd.com/informational-interview/
+[blog 1]: https://blog.brightcrowd.us/the-art-of-the-ask/
+[blog 2]: https://blog.brightcrowd.us/informational-interview/
 [doc 1]: https://docs.google.com/document/d/1hd-iLFHdN3dRJ_ZH5cTX47KPnXTNxQpKZzj4mABzYoY/edit

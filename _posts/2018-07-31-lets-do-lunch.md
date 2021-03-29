@@ -28,6 +28,6 @@ Remember, you’ve got limited time with this organization. You won’t be able 
 
 If you’re working instead of interning, remember that you can still make the most of your summer in a similar way, it just may take a little extra leg work. Summer is a great time to connect with people in your field — you can [connect with alumni][blog 2] (who are super likely to help you out!) on [BrightCrowd].
 
-[blog 1]: https://blog.brightcrowd.com/life-saving-networking-questions/
-[blog 2]: https://blog.brightcrowd.com/how-to-reach-out-to-alumni/
+[blog 1]: https://blog.brightcrowd.us/life-saving-networking-questions/
+[blog 2]: https://blog.brightcrowd.us/how-to-reach-out-to-alumni/
 [BrightCrowd]: https://brightcrowd.com

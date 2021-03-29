@@ -20,7 +20,7 @@ If we’re honest, there’s a reason why networking has a bad reputation. If yo
 
 But here’s the thing — networking is only fake if you you treat it that way.
 
-If you bring a genuine desire to help and to learn to your networking interactions, you’ll be more successful. People can smell insincerity a mile away. Great connections are going to be hungry to chat with genuine people (like you).  
+If you bring a genuine desire to help and to learn to your networking interactions, you’ll be more successful. People can smell insincerity a mile away. Great connections are going to be hungry to chat with genuine people (like you).
 
 [I’ve said it before][blog1]; the best networking isn’t exchanging business cards, it’s just people helping each other out. There’s nothing fake about that.
 
@@ -49,6 +49,6 @@ Hearing about how others have navigated life’s twists and turns can be so valu
 
 
 
-[blog1]: https://blog.brightcrowd.com/teamwork-makes-the-dreamwork/
-[blog2]: https://blog.brightcrowd.com/thank-you/
+[blog1]: https://blog.brightcrowd.us/teamwork-makes-the-dreamwork/
+[blog2]: https://blog.brightcrowd.us/thank-you/
 [BrightCrowd]: https://brightcrowd.com

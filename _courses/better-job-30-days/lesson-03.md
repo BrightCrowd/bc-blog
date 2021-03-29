@@ -27,7 +27,7 @@ Use the cover letter [template in this blog post][blog 3] to develop your own qu
 
 **Extra Credit**: Get a [cover letter template][examples] that complements your resume, for A+ style.
 
-Best,  
+Best,
 T.J.
 
 # Next week…
@@ -35,8 +35,8 @@ T.J.
 You’ve made it! After you enjoy your weekend, it’ll be time to reach out. Well...just a little bit. Next week we’ll focus on making your web presence appealing, professional, and friendly.
 
 
-[blog 1]: https://blog.brightcrowd.com/urgent-resume-questions
-[blog 2]: https://blog.brightcrowd.com/make-an-offer-they-cant-refuse/
-[blog 3]: https://blog.brightcrowd.com/employer-focused-cover-letter/
+[blog 1]: https://blog.brightcrowd.us/urgent-resume-questions
+[blog 2]: https://blog.brightcrowd.us/make-an-offer-they-cant-refuse/
+[blog 3]: https://blog.brightcrowd.us/employer-focused-cover-letter/
 [template]: https://docs.google.com/document/d/1ZO9fuZgftSzjHlxX8OxrE-hVllUGi5M87DUOIVhhaSU/copy
 [examples]: https://resumegenius.com/cover-letter-examples

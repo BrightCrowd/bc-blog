@@ -14,7 +14,7 @@ But, wow, is it awkward to ask for more money. So should you keep quiet and wait
 
 To start, let’s talk about when is a good time to ask. Firstly, don’t ambush your boss in front of other people. It’s awkward and even if you wrangle a raise from that encounter, it’s bound to foster resentment. Instead, ask for a meeting, ideally at a time when they aren’t busy. If your company does annual reviews or you’re up for a promotion (ideally more responsibility should always equal more pay), those are great times to bring up a raise as well.
 
-After you’ve set up your one-on-one meeting, it’s time to prepare. Do some research. What are other people in your position (or if you’re up for promotion, the position you’re going for) making? How long have they been with the company? If your company discourages these kinds of discussions remember: [they cannot legally keep you from discussing your wages and compensation with other employees][link1]. That said, if you still don’t feel comfortable having that kind of discussion with co-workers, you can search what the average salary for your job position is or reach out to fellow BrightCrowd members. 
+After you’ve set up your one-on-one meeting, it’s time to prepare. Do some research. What are other people in your position (or if you’re up for promotion, the position you’re going for) making? How long have they been with the company? If your company discourages these kinds of discussions remember: [they cannot legally keep you from discussing your wages and compensation with other employees][link1]. That said, if you still don’t feel comfortable having that kind of discussion with co-workers, you can search what the average salary for your job position is or reach out to fellow BrightCrowd members.
 
 Once you know the range of salary you could be making, determine what you want to make. What would ease your budget or make up for any emotional wear and tear your job may cause? Figure out that number, and then ask for a higher wage so you can negotiate down to your number. For example, my partner was up for a promotion recently. They surveyed the people in the position they were going for and found out what other people were making, and asked for that number, knowing that because they didn’t have the same number of years there, they wouldn’t get it. The salary they were able to get was slightly lower--and exactly what they’d hoped for.
 
@@ -34,5 +34,5 @@ Asking for money and justifying how you’re worth it is not a comfortable exper
 
 
 [link1]: https://obamawhitehouse.archives.gov/the-press-office/2014/04/08/executive-order-non-retaliation-disclosure-compensation-information
-[blog2]: https://blog.brightcrowd.com/smart-way-out-of-bad-job/
+[blog2]: https://blog.brightcrowd.us/smart-way-out-of-bad-job/
 [BrightCrowd]: https://brightcrowd.com

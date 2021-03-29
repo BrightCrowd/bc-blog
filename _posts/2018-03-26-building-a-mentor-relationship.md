@@ -66,8 +66,8 @@ Her style is consumer-fist and scrappy, using her sense of urgency and purpose t
 
 
 [link1]: https://medium.com/personal-growth/what-nobody-told-you-about-finding-mentors-b9c1e8037868
-[link2]: https://blog.brightcrowd.com/make-an-offer-they-cant-refuse/
-[link3]: https://blog.brightcrowd.com/thank-you/
+[link2]: https://blog.brightcrowd.us/make-an-offer-they-cant-refuse/
+[link3]: https://blog.brightcrowd.us/thank-you/
 [link4]: https://www.facebook.com/FitnessByZoe/
 [zoefb]: https://www.facebook.com/zoe.schwartz.5
 [zoeinsta]: https://www.instagram.com/_fitnessbyzoe/

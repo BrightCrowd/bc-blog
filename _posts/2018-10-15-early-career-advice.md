@@ -8,7 +8,7 @@ author: tjduane
 image: /assets/images/you-got-this.jpg
 ---
 
-We’ve written before about how to [manage your early career](https://blog.brightcrowd.com/how-to-survive-in-your-early-career/), even if you’re not yet in your dream job. You can cope by focusing your efforts outside of work, or by diving in. Committing to make the most of your current role can be tough, especially if you’ve got a fancy degree that doesn’t relate. But in the right conditions, even part-time baristas can work their way up and gain valuable expertise that can set them apart.
+We’ve written before about how to [manage your early career](https://blog.brightcrowd.us/how-to-survive-in-your-early-career/), even if you’re not yet in your dream job. You can cope by focusing your efforts outside of work, or by diving in. Committing to make the most of your current role can be tough, especially if you’ve got a fancy degree that doesn’t relate. But in the right conditions, even part-time baristas can work their way up and gain valuable expertise that can set them apart.
 
 I got an email from a BrightCrowd member with some excellent ideas for ways to move up and improve, even in your very first job. He’s in a pretty good position just two years out of school, and offered to share his advice with you — I hope it’s helpful!
 

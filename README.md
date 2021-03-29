@@ -1,5 +1,5 @@
 # BrightCrowd Blog
-This repository contains the blog for BrightCrowd which can be found at https://blog.brightcrowd.com
+This repository contains the blog for BrightCrowd which can be found at https://blog.brightcrowd.us
 
 It's made with [Jekyll](https://jekyllrb.com/)
 

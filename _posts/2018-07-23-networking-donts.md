@@ -31,7 +31,7 @@ And I’ve got to address the idea of “bolstering my chances of networking and
 Networking isn’t something you can succeed at. It’s just something we all do, every time we help each other out or connect people together. And “success” (whatever that means) doesn’t necessarily follow from networking — building a career is a much longer process than that.
 
 Most interactions won’t yield job offers directly, and that’s OK. Networking is an opportunity to learn something about another person and build a relationship. Nothing more, nothing less.
-Anyway, the Helpful Alum provided the contact information for the person he thought could help and the networker reached out to him.  
+Anyway, the Helpful Alum provided the contact information for the person he thought could help and the networker reached out to him.
 
 Then the Bad Networker had the audacity to respond with this:
 
@@ -48,5 +48,5 @@ That’s not how it should be. When you’re networking, you should always be pu
 Fortunately there are thousands of helpful alums like this one on [BrightCrowd][brightcrowd], so if you need help or advice just ask (but be thoughtful).
 
 
-[blog 1]: https://blog.brightcrowd.com/the-art-of-the-ask/
+[blog 1]: https://blog.brightcrowd.us/the-art-of-the-ask/
 [brightcrowd]: https://brightcrowd.com

@@ -62,7 +62,7 @@ How can you get started? A quick search for your dream job on [BrightCrowd][brig
 
 
 [link1]: https://en.wikipedia.org/wiki/Informational_interview
-[link2]: https://blog.brightcrowd.com/the-art-of-the-ask/
+[link2]: https://blog.brightcrowd.us/the-art-of-the-ask/
 [link3]: https://jacobklehman.com/
 [link4]: https://business.cornell.edu/
 [brightcrowd]: https://brightcrowd.com

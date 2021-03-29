@@ -44,6 +44,6 @@ Try Googling **[Your School] alumni benefits**, and see what comes up! You might
 
 All these benefits are fantastic privileges -- they’re not to be taken lightly. If you had the good fortune to go to an awesome school, get out there and make the most of it! You can [get started on BrightCrowd][brightcrowd], where your alumni network lives.
 
-[link1]: https://blog.brightcrowd.com/teamwork-makes-the-dreamwork/
+[link1]: https://blog.brightcrowd.us/teamwork-makes-the-dreamwork/
 [link2]: https://www.themuse.com/advice/7-alumni-benefits-you-should-be-taking-advantage-of
 [brightcrowd]: https://brightcrowd.com
