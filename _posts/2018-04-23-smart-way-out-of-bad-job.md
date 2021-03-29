@@ -52,6 +52,6 @@ Careers are rarely a perfect, straight trajectory upwards. Almost everyone strug
 If you’re looking for a switch, [try tapping into your helpful network on BrightCrowd][brightcrowd].
 
 
-[link1]: https://blog.brightcrowd.com/welcome-to-your-crowd/
-[link2]: https://blog.brightcrowd.com/the-art-of-the-ask/
+[link1]: https://blog.brightcrowd.us/welcome-to-your-crowd/
+[link2]: https://blog.brightcrowd.us/the-art-of-the-ask/
 [brightcrowd]: https://brightcrowd.com

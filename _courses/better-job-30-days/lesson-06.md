@@ -11,7 +11,7 @@ That’s awesome progress. High five. ✋
 
 But I’d be remiss not to mention the importance of your whole web presence — especially if you’re looking for a job. [Potential employers][article 1] \*do\* use Google, Facebook, Twitter, Instagram…all of it.
 
-Candidates who refer to drugs, alcohol, or violence on their personal profiles might get passed over. Bad grammar can also hurt your candidacy (who knows how your recruiter feels about the Oxford Comma?). Wearing your politics on your sleeve might trigger a strong negative (or positive) response.  
+Candidates who refer to drugs, alcohol, or violence on their personal profiles might get passed over. Bad grammar can also hurt your candidacy (who knows how your recruiter feels about the Oxford Comma?). Wearing your politics on your sleeve might trigger a strong negative (or positive) response.
 
 In short, reactions to what you post online are completely unpredictable. It may not be fair, but it’s life. Here’s how you can take control.
 
@@ -36,7 +36,7 @@ Review your personal social media profiles, and delete or make private any conte
 
 **Extra Credit**: Bring your personal accounts in line with your professional ones — use the same headshot and professional descriptions. You might decide this isn’t the right choice for you, but it certainly will never hurt in the eyes of your professional contacts.
 
-Best,  
+Best,
 T.J.
 
 ## Next Week:
@@ -50,4 +50,4 @@ Armed with a killer web presence and interesting narrative, you can’t lose. (S
 [Facebook]: https://www.facebook.com/help/325807937506242/
 [Twitter]: https://twitter.com/en/privacy
 [Instagram]: https://help.instagram.com/196883487377501
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-06-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.us/courses/better-job-30-days/lesson-06-worksheet.pdf

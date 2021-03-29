@@ -37,12 +37,12 @@ node('master') {
           deleteDir()
           unstash 'built-site'
           if (env.BRANCH_NAME == 'master') {
-            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/ --exclude 'branches/*' --delete --acl 'public-read'"
+            sh "aws s3 sync _site/ s3://blous/ --exclude 'branches/*' --delete --acl 'public-read'"
             withCredentials([string(credentialsId: 'cf-id-bc-blog', variable: 'DIST_ID')]) {
               sh "aws cloudfront create-invalidation --distribution-id ${env.DIST_ID} --paths '/*'"
             }
           } else {
-            sh "aws s3 sync _site/ s3://blog.brightcrowd.com/branches/${env.BRANCH_NAME}/ --delete --acl 'public-read'"
+            sh "aws s3 sync _site/ s3://blog.brightcrowd.us/branches/${env.BRANCH_NAME}/ --delete --acl 'public-read'"
             withCredentials([string(credentialsId: 'cf-id-bc-blog', variable: 'DIST_ID')]) {
               sh "aws cloudfront create-invalidation --distribution-id ${env.DIST_ID} --paths '/branches/${env.BRANCH_NAME}/*'"
             }

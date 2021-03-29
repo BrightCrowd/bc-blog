@@ -1,7 +1,6 @@
 baseurl: "/branches/develop" # adjust s3 location in Jenkinsfile accordingly
 
 bcurl: http://localhost:9000
-apibaseurl: http://localhost:9001
 
 sass:
     style: :expanded

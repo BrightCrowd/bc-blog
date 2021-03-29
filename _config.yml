@@ -19,10 +19,9 @@ email: contact@brightcrowd.com
 description: >- # this means to ignore newlines until "baseurl:"
   BrightCrowd helps you get stuff done by connecting you to the people in your network with the knowledge and experience you need.
 baseurl: "" # adjust s3 location in Jenkinsfile accordingly
-url: "https://blog.brightcrowd.com"
+url: "https://blog.brightcrowd.us"
 
 bcurl: https://brightcrowd.com
-apibaseurl: https://api.brightcrowd.com
 
 facebook:
   app_id: 1584150891861483

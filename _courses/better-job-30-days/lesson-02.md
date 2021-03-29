@@ -37,16 +37,16 @@ Luckily there are a **ton of great resume templates available for free online**.
 
 **Extra Credit**: Share your resume with somebody you trust and get feedback. If you’re feeling adventurous, you can even ask for help on [BrightCrowd].
 
-Best,  
+Best,
 T.J.
 
 **Up Next**: What’s a resume without a super-compelling cover letter to go with it? I’ll get you started with some awesome examples and a template that’ll work wonders.
 
 [BrightCrowd]: https://brightcrowd.com
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.us/courses/better-job-30-days/lesson-01-worksheet.pdf
 [google]: https://docs.google.com/document/u/0/?ftv=1&tgif=c#
 [microsoft]: https://templates.office.com/en-us/Resumes-and-Cover-Letters
 [pages]: https://www.template.net/business/resume/resume-templates-for-mac/
 [action words]: http://career.opcd.wfu.edu/files/2011/05/Action-Verbs-for-Resumes.pdf
-[blog]: https://blog.brightcrowd.com/urgent-resume-questions
+[blog]: https://blog.brightcrowd.us/urgent-resume-questions
 [stories]: https://docs.google.com/document/d/1XVrsVAQsVVhfp7rBx_2DLmjvbTeNlUWFl9TE7F-K09k/edit

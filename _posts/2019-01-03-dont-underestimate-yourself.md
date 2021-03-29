@@ -30,7 +30,7 @@ The most valuable employees aren’t the ones who always have the answers, they�
 
 - What are we trying to achieve?
 - How will we measure success?
-- What resources do I have available to me to help?  
+- What resources do I have available to me to help?
 
 Asking questions can feel difficult. It’s hard to admit when you don’t know something. But asking the right questions will only reflect well on you. Getting clear on what’s fuzzy at the outset will save you time, prevent miscommunications, and can even help reveal unknown factors that might be standing in your way.
 
@@ -49,5 +49,5 @@ Good luck on your next big new thing. And remember, you can always find help and
 
 
 
-[blog1]: https://blog.brightcrowd.com/embrace-your-imposter/
+[blog1]: https://blog.brightcrowd.us/embrace-your-imposter/
 [BrightCrowd]: https://brightcrowd.com

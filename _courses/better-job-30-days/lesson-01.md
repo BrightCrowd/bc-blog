@@ -38,12 +38,12 @@ When you network, it’s up to you to provide all of that context upfront. Your 
 
 **EXTRA CREDIT**: You can get extra inspiration for your story [from this doc][stories]. Then, share what you’ve written on the doc for feedback.
 
-Best,  
+Best,
 T.J.
 
 **Up next**: On Wednesday we’ll go over best practices for resumes. After all, even if you’re not looking for work, a slick resume is awesome to have in your back pocket.
 
 
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-01-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.us/courses/better-job-30-days/lesson-01-worksheet.pdf
 [profile]: https://www.brightcrowd.com/profile/me
 [stories]: https://docs.google.com/document/d/1XVrsVAQsVVhfp7rBx_2DLmjvbTeNlUWFl9TE7F-K09k/edit

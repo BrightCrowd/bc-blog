@@ -35,6 +35,6 @@ When you follow up with someone interesting, ask an old colleague out for drinks
 
 
 
-[blog1]: https://blog.brightcrowd.com/informational-interview/
-[blog2]: https://blog.brightcrowd.com/thank-you/
+[blog1]: https://blog.brightcrowd.us/informational-interview/
+[blog2]: https://blog.brightcrowd.us/thank-you/
 [BrightCrowd]: https://brightcrowd.com

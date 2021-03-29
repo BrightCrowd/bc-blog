@@ -28,5 +28,5 @@ On your profile you’ll see your score, and suggestions on how to improve it. Y
 
 And if you run across someone super helpful on [BrightCrowd][brightcrowd], send them a message! Chances are they’ll be happy to meet you, too!
 
-[link1]: https://blog.brightcrowd.com/when-things-are-tough-reach-out/
+[link1]: https://blog.brightcrowd.us/when-things-are-tough-reach-out/
 [brightcrowd]: https://brightcrowd.com

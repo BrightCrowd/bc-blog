@@ -44,5 +44,5 @@ T.J.
 [BrightCrowd]: https://brightcrowd.com
 [Meetup]: https://www.meetup.com/
 [Eventbrite]: https://www.eventbrite.com/
-[blog]: https://blog.brightcrowd.com/life-saving-networking-questions/
-[worksheet]: [worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-12-worksheet.pdf
+[blog]: https://blog.brightcrowd.us/life-saving-networking-questions/
+[worksheet]: [worksheet]: https://blog.brightcrowd.us/courses/better-job-30-days/lesson-12-worksheet.pdf

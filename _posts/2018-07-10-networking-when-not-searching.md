@@ -10,7 +10,7 @@ image: /assets/images/hero-coffee.jpg
 
 A friend of mine who was unemployed recently applied for over 500 jobs. He was highly qualified, he treated the application process like a full-time job, and it still took him 6 months of searching to land the right position. He admitted (somewhat sheepishly) that feelings of shame held him back even from asking his good friends for referrals.
 
-This feeling is so understandable -- it can feel awkward to ask favors when you’re on the hunt for a job.  Nobody wants to feel indebted to their friends or colleagues.  
+This feeling is so understandable -- it can feel awkward to ask favors when you’re on the hunt for a job.  Nobody wants to feel indebted to their friends or colleagues.
 
 But this approach holds us back. If networking is something you only do when you need a new job (and fast!), it can be associated with all sorts of negative feelings -- helplessness, fear, even desperation. No wonder most people avoid it.
 
@@ -38,7 +38,7 @@ Be the friend who’s breaking out of that rut. As often as you can manage, ask 
 
 The point is, networking doesn’t have to be so high-pressure. It’s universally charming to say, “Hey I was thinking of you -- can we do lunch?”.
 
-Even if you don’t end up getting together, just reaching out  with the offer will rekindle the  relationship and you can catch up briefly over the phone.  
+Even if you don’t end up getting together, just reaching out  with the offer will rekindle the  relationship and you can catch up briefly over the phone.
 
 # 3) Ask questions
 
@@ -52,5 +52,5 @@ People love to be connectors. It lets them do something super helpful in just th
  Remember that networking shouldn’t feel exploitative at all. It’s just about people helping people. We all love to do it, so don’t be afraid to get started today, on [BrightCrowd][brightcrowd].
 
 [meetup]: https://www.meetup.com/
-[questions]: https://blog.brightcrowd.com/life-saving-networking-questions/
+[questions]: https://blog.brightcrowd.us/life-saving-networking-questions/
 [brightcrowd]: https://brightcrowd.com/

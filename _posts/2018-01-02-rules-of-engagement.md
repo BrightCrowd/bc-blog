@@ -46,4 +46,4 @@ Go ahead! Ask for help. Offer your skills.  Make the world a little (or a lot) b
 
 [twitter]: https://twitter.com/BrightCrowd
 [brightcrowd]: https://brightcrowd.com
-[blog1]: https://blog.brightcrowd.com/networking-like-cavemen/
+[blog1]: https://blog.brightcrowd.us/networking-like-cavemen/

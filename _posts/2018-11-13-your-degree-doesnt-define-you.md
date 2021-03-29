@@ -35,5 +35,5 @@ There is no guaranteed way to get to your dream career and there isn’t only on
 
 Want to find out what other people with your major have done or connect with your alumni network? Just reach out to any of the helpful people on Brightcrowd.
 
-[blog1]: https://blog.brightcrowd.com/should-i-go-to-grad-school/
-[blog2]: https://blog.brightcrowd.com/the-art-of-the-ask/
+[blog1]: https://blog.brightcrowd.us/should-i-go-to-grad-school/
+[blog2]: https://blog.brightcrowd.us/the-art-of-the-ask/

@@ -15,7 +15,7 @@ Being well-prepared for your informational interview isn’t just an important s
 
 If you’re making a career shift, you’ll have different questions than if you’re just starting out.  The questions you ask can help direct the conversation toward topics that are most relevant to your situation.
 
-**When I’m going to have a call with someone I always write out my goals for the call, and the questions I need to ask to gather that information**.  It helps keep the conversation on track and ensures I get what I need out of the call.  
+**When I’m going to have a call with someone I always write out my goals for the call, and the questions I need to ask to gather that information**.  It helps keep the conversation on track and ensures I get what I need out of the call.
 
 I know I could talk forever about career stuff (have you noticed?) — it’s helpful to narrow down the conversation. The great thing is, **prep should only take 15-30 minutes**, and it’ll make your interview 100% more effective.
 
@@ -24,7 +24,7 @@ I know I could talk forever about career stuff (have you noticed?) — it’s he
 
 **Extra Credit**: Ask your friends about how they handle informational interviews. They might have advice and experiences they can share that will help you get ready.
 
-Best,  
+Best,
 T.J.
 
 **Up Next**: Wednesday we’ll be talking gratitude. It’s an essential part of networking, just want to make sure we’ve got it covered!
@@ -32,4 +32,4 @@ T.J.
 
 
 
-[worksheet]: https://blog.brightcrowd.com/courses/better-job-30-days/lesson-10-worksheet.pdf
+[worksheet]: https://blog.brightcrowd.us/courses/better-job-30-days/lesson-10-worksheet.pdf
